@@ -3,7 +3,7 @@ import { fetchReadmeMarkdown, extractApplyLinks, snippetAround } from "./github.
 import { buildKeywordSet, isRelevant } from "./relevance.mjs";
 import { connectToExistingChrome } from "./browser.mjs";
 import { draftWhyCompany } from "./answerer.mjs";
-import { fillCustomQuestions, createWorkdayAccount, signInWorkday, waitForEmailVerification } from "./formfill.mjs";
+import { fillCustomQuestions, createWorkdayAccount, signInWorkday, waitForEmailVerification, clickWorkdayContinue } from "./formfill.mjs";
 import { setTimeout as sleep } from "node:timers/promises";
 import { writeFile, mkdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
@@ -1021,10 +1021,14 @@ async function main(){
                     const signRes = await signInWorkday(page, { email, password });
                     if(VERBOSE) console.log('signInWorkday after create result:', signRes);
                     await sleep(1200);
+                    // attempt to advance past Speedy Apply first page if present
+                    try{ const advanced = await clickWorkdayContinue(page, 5000); if(VERBOSE) console.log('clickWorkdayContinue after sign-in:', advanced); }catch(_){ }
                   }catch(e){ if(VERBOSE) console.log('signInWorkday after create failed', String(e)); }
                 } else {
                   // generic fallback: try sign-in anyway
                   try{ const signRes = await signInWorkday(page, { email, password }); if(VERBOSE) console.log('signInWorkday fallback after create result:', signRes); await sleep(1200); }catch(_){ }
+                  // try to advance after sign-in/fallback (resume autopopulate page)
+                  try{ const advanced = await clickWorkdayContinue(page, 5000); if(VERBOSE) console.log('clickWorkdayContinue after create fallback:', advanced); }catch(_){ }
                 }
             }
           } else {
@@ -1062,6 +1066,8 @@ async function main(){
             const acctRes = await createWorkdayAccount(page, { email, password });
             if(VERBOSE) console.log('createWorkdayAccount result:', { ok: !!acctRes && !!acctRes.ok, clicked: !!acctRes && !!acctRes.clicked, reason: acctRes && acctRes.reason ? acctRes.reason : undefined, error: acctRes && acctRes.error ? 'yes' : undefined });
             await sleep(1200);
+              // after create, try to continue if Speedy Apply filled the first page
+              try{ const advanced = await clickWorkdayContinue(page, 5000); if(VERBOSE) console.log('clickWorkdayContinue after create:', advanced); }catch(_){ }
             // if account creation clicked a button, give the flow a chance to progress
             if(acctRes){
               if(acctRes.next === 'verify-email'){

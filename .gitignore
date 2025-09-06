@@ -1,0 +1,19 @@
+# Environment files
+.env
+.env.*
+
+# Diagnostics (screenshots / saved HTML)
+diagnostics/
+
+# Node
+node_modules/
+npm-debug.log
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Other
+.idea/
