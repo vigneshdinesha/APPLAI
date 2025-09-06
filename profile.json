@@ -1,0 +1,150 @@
+{
+  "name": "Vignesh Dinesha",
+  "contact": {
+    "location": "Monroe, New Jersey",
+    "phone": "609-240-8046",
+    "email": "vigneshdinesha@gmail.com",
+    "linkedin": "www.linkedin.com/in/vignesh-dinesha",
+    "github": "github.com/vigneshdinesha"
+  },
+  "education": {
+    "school": "Rutgers University, New Brunswick, NJ",
+    "degree": "B.S. in Computer Science and Data Science",
+    "graduation_year": 2026,
+    "gpa": 3.8,
+    "honors": [
+      "Dean's List"
+    ],
+    "relevant_coursework": [
+      "Database Management",
+      "Data Visualization",
+      "Data Analysis with R and Python",
+      "Algorithms",
+      "Regression Modeling",
+      "Data Structures",
+      "Statistics",
+      "Computer Architecture",
+      "Linear Algebra",
+      "Discrete Math"
+    ]
+  },
+  "experience": [
+    {
+      "company": "MND Systems",
+      "location": "Edison, NJ",
+      "title": "Full Stack Developer Intern",
+      "start": "2024-06",
+      "end": "2024-08",
+      "highlights": [
+        "Designed relational databases and optimized queries with SQL and .NET Core APIs; improved data retrieval efficiency by 150%.",
+        "Built secure RESTful APIs with JWT auth; integrated with React UIs.",
+        "Used GitHub and Azure DevOps in Agile sprints for reviews and tracking.",
+        "Deployed a cloud-based full\u2011stack recruitment workflow app."
+      ]
+    },
+    {
+      "company": "One on One",
+      "location": "Princeton, NJ",
+      "title": "Software Engineer Intern",
+      "start": "2025-06",
+      "end": "2025-08",
+      "highlights": [
+        "Built a cross\u2011platform recruiter app with React Native, Expo, and expo\u2011router (iOS/Android).",
+        "Implemented Google Sign\u2011In and Apple Authentication with backend token exchange for secure SSO.",
+        "Typed REST integrations for dashboard stats, call\u2011log search, candidate notes, and resume retrieval.",
+        "Set up Expo Services CI/CD and automated store submissions.",
+        "Led web app revamp: data\u2011driven dashboards, automated resume processing, advanced search, intelligent job filtering, and AI\u2011powered candidate ranking."
+      ]
+    },
+    {
+      "company": "Rutgers University",
+      "location": "New Brunswick, NJ",
+      "title": "Research Assistant",
+      "start": "2025-08",
+      "end": "present",
+      "highlights": [
+        "Profiled EMF intensity with Tableau to improve visualization and pattern detection.",
+        "Analyzed EMF data in cancerous vs. non\u2011cancerous cells using Python.",
+        "Designed an EMF\u2011based mosquito repellent system achieving up to 90% repellency in controlled trials."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Spectrum Data Analytics from Spatial Sensors",
+      "role": "Co\u2011founder",
+      "dates": "2024-10 \u2013 present",
+      "summary": "Sensor fusion platform combining LiDAR spatial mapping with EMF sensing for environmental data capture; real\u2011time Python pipelines and 3D spatial\u2011field visualization; EMF\u2011based mosquito deterrence PoCs."
+    },
+    {
+      "name": "Biohacking Web Application",
+      "stack": [
+        "TypeScript",
+        "Next.js 14",
+        "PostgreSQL",
+        "ASP.NET Core",
+        "Three.js",
+        "React Three Fiber"
+      ],
+      "dates": "2025-04 \u2013 present",
+      "summary": "Personalized strategy platform delivering research\u2011backed protocols; normalized PostgreSQL schema, RESTful API, responsive Next.js front\u2011end, seamless client\u2013server state sync; Google OAuth2 and JWT."
+    },
+    {
+      "name": "Manas Wellness Web Application",
+      "dates": "2024 \u2013 present",
+      "url": "manaswellness.com",
+      "summary": "Digital platform for South Asian mental health awareness; donations, volunteer coordination, community tools with admin content moderation; Stripe payments via React Stripe.js with .NET 8 Web API + PostgreSQL; modern Next.js 15 + TypeScript + Tailwind front\u2011end."
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      "Java",
+      "Python",
+      "SQL",
+      "R",
+      "C#",
+      "C",
+      "JavaScript",
+      "TSX/JSX",
+      "CSS",
+      "HTML"
+    ],
+    "technologies": [
+      "ASP.NET Core",
+      "Next.js",
+      "Tailwind CSS",
+      "PostgreSQL",
+      "SQL Server",
+      "Expo",
+      "React Native",
+      "Scikit-learn",
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Excel",
+      "MS Office",
+      "OAuth",
+      "Firebase",
+      "Google Cloud Console",
+      "Apple Developer Console"
+    ]
+  },
+  "writing_sample_summary": {
+    "topics": [
+      "Frontend performance and scalable React UI",
+      "SQL Server query optimization and indexing",
+      "Conflict resolution via data\u2011driven collaboration",
+      "Realtime audio UX with Web Audio API (GainNode, PannerNode)",
+      "Interview\u2011style behavioral and technical responses"
+    ],
+    "quantified_impacts": [
+      "Reduced query times by ~70% (under 1.5s).",
+      "Improved API response times by >60% after code review refactors."
+    ],
+    "voice_and_style": [
+      "Clear, confident, metric\u2011backed claims",
+      "Collaborative and reflective tone",
+      "Concrete tech details without fluff"
+    ]
+  }
+}
