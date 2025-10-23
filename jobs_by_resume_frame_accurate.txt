@@ -1,0 +1,106 @@
+Jobs classified by resume frame (accurate pass)
+Frames:
+1. Software / Full-Stack
+2. Mobile Development
+3. Data Engineering / Analytics
+4. Internal Tools / Platform
+5. Research / Emerging Tech
+6. Cloud / DevOps
+
+- https://discord.gg/gaJnCmTHuN
+  Title: Discord
+  Company: Discord
+  Assigned: 4 (Internal Tools / Platform)
+  Scores: 1:0 2:0 3:0 4:1 5:0 6:0
+  Snippet: kirk (kirk0g) invited you to join SpeedyApply 180 Online 3,000 Members Display Name This is how others see you. You can use special characters and emoji. Date of Birth Month Day Year By clicking “Create Account,” you agree to Discord's Terms of Service and have read the Privacy Policy Create Account Already have an account? Log in
+
+- https://chromewebstore.google.com/detail/speedyapply-job-applicati/mbgjopdedgonlbpikjfibkccpmhjbnag
+  Title: SpeedyApply: Job Application Autofill Tool - Chrome Web Store
+  Company: google
+  Assigned: 4 (Internal Tools / Platform)
+  Scores: 1:0 2:0 3:0 4:1 5:0 6:0
+  Snippet: Switch to Chrome to install extensions and themes Install Chrome SpeedyApply: Job Application Autofill Tool Remove from Chrome speedyapply.com Featured 4.4 ( 43 ratings ) Share Extension Tools 20,000 users Overview Applying to jobs just got easier. Automate job applications with a single click and track your progress over time. SpeedyApply is the ultimate solution for job seekers who want to take ...
+
+- https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204
+  Title: CAREERS AT NVIDIA
+  Company: myworkdayjobs
+  Assigned: 1 (Software / Full-Stack)
+  Scores: 1:3 2:0 3:2 4:2 5:1 6:1
+  Snippet: Skip to main content CAREERS AT NVIDIA Sign In Home Search for Jobs NVIDIA 2026 Internships: Systems Software Engineering page is loaded NVIDIA 2026 Internships: Systems Software Engineering Apply locations US, CA, Santa Clara time type Full time posted on Posted Yesterday job requisition id JR2003204 By submitting your resume, you’re expressing interest in one of our 2026 Systems Software Enginee...
+
+- https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206
+  Title: CAREERS AT NVIDIA
+  Company: myworkdayjobs
+  Assigned: 1 (Software / Full-Stack)
+  Scores: 1:7 2:0 3:5 4:2 5:1 6:4
+  Snippet: Skip to main content CAREERS AT NVIDIA Sign In Home Search for Jobs NVIDIA 2026 Internships: Software Engineering page is loaded NVIDIA 2026 Internships: Software Engineering Apply locations US, CA, Santa Clara time type Full time posted on Posted Yesterday job requisition id JR2003206 By submitting your resume, you’re expressing interest in one of our 2026 Software Engineering Internships. We’ll ...
+
+- https://careers.datadoghq.com/detail/7158137/?gh_jid=7158137
+  Title: Software Engineering Intern (Summer) | Datadog Careers
+  Company: Datadog Careers | Datadog
+  Assigned: 1 (Software / Full-Stack), 6 (Cloud / DevOps)
+  Scores: 1:3 2:0 3:2 4:1 5:0 6:3
+  Snippet: Software Engineering Intern (Summer) Boston, Massachusetts, USA; New York, New York, USA We’re looking for interns to join us to help collect, aggregate, visualize, and analyze high-scale metrics, logs, and application data. Software engineering at Datadog includes a variety of exciting opportunities across backend, frontend, infrastructure, libraries, data engineering, and data science. Intereste...
+
+- https://app.careerpuck.com/job-board/lyft/job/8130804002?gh_jid=8130804002
+  Title: Lyft Software Engineer Intern, Backend (Summer 2026)
+  Company: careerpuck
+  Assigned: 1 (Software / Full-Stack), 4 (Internal Tools / Platform)
+  Scores: 1:1 2:0 3:0 4:1 5:0 6:0
+  Snippet: Software Engineer Intern, Backend (Summer 2026) San Francisco, CA Apply Hear clips from the team At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. We care deeply about delivering the best transportation experience; this means the best experience for the passenger and the best expe...
+
+- https://careers.roblox.com/jobs/7206219?gh_jid=7206219
+  Title: 
+  Company: 
+  Assigned: Unassigned
+  Scores: 1:0 2:0 3:0 4:0 5:0 6:0
+  Snippet: ERROR: Error: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.roblox.com/jobs/7206219?gh_jid=7206219
+
+- https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2026-Intern---Software-Engineer_JR308796-1
+  Title: 
+  Company: 
+  Assigned: Unassigned
+  Scores: 1:0 2:0 3:0 4:0 5:0 6:0
+  Snippet: ERROR: ProtocolError: Network.setUserAgentOverride timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+
+- https://stripe.com/jobs/search?gh_jid=7210115
+  Title: 
+  Company: 
+  Assigned: Unassigned
+  Scores: 1:0 2:0 3:0 4:0 5:0 6:0
+  Snippet: ERROR: ProtocolError: Network.setUserAgentOverride timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+
+- https://www.google.com/about/careers/applications/jobs/results/117118476782314182
+  Title: Software Engineering Intern, MS, Summer 2026 — Google Careers
+  Company: google
+  Assigned: 4 (Internal Tools / Platform)
+  Scores: 1:0 2:0 3:0 4:1 5:0 6:0
+  Snippet: Software Engineering Intern, MS, Summer 2026 corporate_fare Google place Mountain View, CA, USA ; +29 more bar_chart Intern & Apprentice Apply share bookmark_border info_outline X Applications will be reviewed on a rolling basis and it’s in the candidate’s best interest to apply early. The anticipated application window is open until October 31, 2025, but may close earlier if all available project...
+
+- https://www.google.com/about/careers/applications/jobs/results/83033753760211654
+  Title: Software Developer Intern, MS, Summer 2026 — Google Careers
+  Company: google
+  Assigned: 4 (Internal Tools / Platform)
+  Scores: 1:0 2:0 3:0 4:1 5:0 6:0
+  Snippet: Software Developer Intern, MS, Summer 2026 corporate_fare Google place Waterloo, ON, Canada ; +2 more bar_chart Intern & Apprentice Apply share bookmark_border info_outline X Applications will be reviewed on a rolling basis and it’s in the candidate’s best interest to apply early. The anticipated application window is open until October 31, 2025, but may close earlier if all available projects are...
+
+- https://www.google.com/about/careers/applications/jobs/results/139918130284503750
+  Title: Software Developer Intern, BS, Summer 2026 — Google Careers
+  Company: google
+  Assigned: 4 (Internal Tools / Platform)
+  Scores: 1:0 2:0 3:0 4:1 5:0 6:0
+  Snippet: Software Developer Intern, BS, Summer 2026 corporate_fare Google place Waterloo, ON, Canada ; +2 more bar_chart Intern & Apprentice Apply share bookmark_border info_outline X Applications will be reviewed on a rolling basis and it’s in the candidate’s best interest to apply early. The anticipated application window is open until October 31, 2025, but may close earlier if all available projects are...
+
+- https://www.google.com/about/careers/applications/jobs/results/75808725415142086
+  Title: Software Engineering Intern, BS, Summer 2026 — Google Careers
+  Company: google
+  Assigned: 4 (Internal Tools / Platform)
+  Scores: 1:0 2:0 3:0 4:1 5:0 6:0
+  Snippet: Software Engineering Intern, BS, Summer 2026 corporate_fare Google place Mountain View, CA, USA ; +29 more bar_chart Intern & Apprentice Apply share bookmark_border info_outline X Applications will be reviewed on a rolling basis and it’s in the candidate’s best interest to apply early. The anticipated application window is open until October 31, 2025, but may close earlier if all available project...
+
+- https://boards.greenhouse.io/figma/jobs/5623087004?gh_jid=5623087004
+  Title: Job Application for Data Engineer Intern (2026) at Figma
+  Company: greenhouse
+  Assigned: 3 (Data Engineering / Analytics)
+  Scores: 1:2 2:0 3:6 4:1 5:0 6:0
+  Snippet: Back to jobs Data Engineer Intern (2026) San Francisco, CA • New York, NY Apply Figma is growing our team of passionate creatives and builders on a mission to make design accessible to all. Figma’s platform helps teams bring ideas to life—whether you're brainstorming, creating a prototype, translating designs into code, or iterating with AI. From idea to product, Figma empowers teams to streamline...

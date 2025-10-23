@@ -1,0 +1,187 @@
+Refined jobs for frame 1 - Software / Full-Stack (new-grad focused)
+
+- https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002
+  Title: Software Engineering Intern (2026) - Databricks
+  Company: databricks
+  Assigned: 1
+  Snippet: P-963 At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. As a Software Engineering I
+
+- https://www.akunacapital.com/job-details?gh_jid=7060087
+  Title: Job Details - Akuna Capital
+  Company: Akuna Capital
+  Assigned: 1
+  Snippet: SOFTWARE ENGINEER INTERN - FULL STACK WEB, SUMMER 2026 Chicago About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this su
+
+- https://www.akunacapital.com/job-details?gh_jid=7060377
+  Title: Job Details - Akuna Capital
+  Company: Akuna Capital
+  Assigned: 1, 3
+  Snippet: SOFTWARE ENGINEER INTERN - C# .NET DESKTOP, SUMMER 2026 Chicago About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this s
+
+- https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2117625
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1
+  Snippet: Skip to main content Sign In Fidelity Careers Co-op, Software Engineer page is loaded Co-op, Software Engineer Apply locations Boston, MA time type Full time posted on Posted Yesterday job requisition id 2117625 Job Description: Software Engineer – Intern/Co-op The Fidelity Enterprise Services Advanced Technology for Investment Management Team contributes to the vitality and growth of the organiza
+
+- https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/Any-Location--Remote/Summer-2026-Software-Developer--Internship_RQ206985-1
+  Title: Welcome to the GDIT Early Talent Career Portal!
+  Company: myworkdayjobs
+  Assigned: 3
+  Snippet: Skip to main content Welcome to the GDIT Early Talent Career Portal! Summer 2026 Software Developer Internship page is loaded Summer 2026 Software Developer Internship Apply locations Any Location / Remote time type Full time posted on Posted Yesterday job requisition id RQ206985 Type of Requisition: Regular Clearance Level Must Currently Possess: Confidential Clearance Level Must Be Able to Obtai
+
+- https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Data-Engineer_R5400
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1, 3
+  Snippet: Skip to main content Sign In Search for Jobs Introduce Yourself Intern- Data Engineer page is loaded Intern- Data Engineer Apply locations USA Wilmington, MA - HQ time type Full time posted on Posted Yesterday job requisition id R5400 Who we are With its A.I.-powered robotic technology platform, Symbotic is changing the way consumer goods move through the supply chain. Intelligent software orchest
+
+- https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-RiverSouth/Software-Engineer-Intern--Summer-2026-_R25-01193
+  Title: TEL Career
+  Company: myworkdayjobs
+  Assigned: 1, 3
+  Snippet: Skip to main content TEL Career Software Engineer Intern (Summer 2026) page is loaded Software Engineer Intern (Summer 2026) Apply locations Austin RiverSouth time type Full time posted on Posted Yesterday job requisition id R25-01193 Let’s search for your next career at TEL. Use the form below to search our current opportunities and then apply. Please consider joining our Talent Community so that
+
+- https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2026-Software-Development-Internship--_RQ206980
+  Title: Welcome to the GDIT Early Talent Career Portal!
+  Company: myworkdayjobs
+  Assigned: 1, 3
+  Snippet: Skip to main content Welcome to the GDIT Early Talent Career Portal! GDIT Summer Internship Program – Summer 2026 Software Development Internship page is loaded GDIT Summer Internship Program – Summer 2026 Software Development Internship Apply locations USA NJ Egg Harbor Township time type Full time posted on Posted 2 Days Ago job requisition id RQ206980 Type of Requisition: Regular Clearance Leve
+
+- https://thrivent.wd5.myworkdayjobs.com/en-US/external/job/Remote-Minnesota/Associate-Software-Engineer-Intern---Summer-2026_REQ-44296
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 3
+  Snippet: Skip to main content Sign In Thrivent Careers Associate Software Engineer Intern - Summer 2026 page is loaded Associate Software Engineer Intern - Summer 2026 Apply locations Remote-Minnesota time type Full time posted on Posted 2 Days Ago job requisition id REQ-44296 Our top-rated summer internship program is designed to give college students meaningful work experience in specific functions, prov
+
+- https://apply.workable.com/al-warren-oil-company-inc/j/5E4723993B/
+  Title: Software Developer - Winter Internship 2025 - Al Warren Oil Company Inc.
+  Company: workable
+  Assigned: 1
+  Snippet: Share this job Description Duration: Winter 2025 (Flexible start and end dates) Hours: 20-40 hours per week (depending on availability) Paid Internship About Us: Al Warren Oil Company is a leading fuel and lubricants distributor dedicated to innovation and operational excellence. We're looking for a Software Developer to help support our operations, billing, and app development initiatives. This i
+
+- https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Software-Engineer_R5393
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1
+  Snippet: Skip to main content Sign In Search for Jobs Introduce Yourself Intern- Software Engineer page is loaded Intern- Software Engineer Apply locations USA Wilmington, MA - HQ time type Full time posted on Posted 3 Days Ago job requisition id R5393 Who we are With its A.I.-powered robotic technology platform, Symbotic is changing the way consumer goods move through the supply chain. Intelligent softwar
+
+- https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Hillsboro-Oregon-USA/Software-Engineering-Co-op_R-01328128
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1, 2, 4, 5
+  Snippet: Skip to main content We use cookies to offer you a better browsing experience, analyze site traffic, and personalize content. Read about how we use cookies and how you can control them by visiting our Cookie Settings page. If you continue to use this site, you consent to our use of cookies. Decline Accept Cookies English Sign In Careers Home Page Software Engineering Co-op page is loaded Software 
+
+- https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Software-Engineer-Intern---Cboe-Clear-US_R-4113
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1, 3
+  Snippet: Skip to main content Sign In Search for Jobs Software Engineer Intern – Cboe Clear US page is loaded Software Engineer Intern – Cboe Clear US Apply remote type Flex/Hybrid locations Chicago, IL time type Full time posted on Posted 4 Days Ago job requisition id R-4113 Job Description: Building trusted markets — powered by our people. At Cboe Global Markets, we inspire our people to solve complex ch
+
+- https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern---Real-Time_R-4149
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1, 3
+  Snippet: Skip to main content Sign In Search for Jobs Software Engineer Intern - Real-Time page is loaded Software Engineer Intern - Real-Time Apply remote type Flex/Hybrid locations Kansas City, MO time type Full time posted on Posted 4 Days Ago job requisition id R-4149 Job Description: Building trusted markets — powered by our people. At Cboe Global Markets, we inspire our people to solve complex challe
+
+- https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/New-York-NY/Software-Engineer-Intern--BIDS_R-4145
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1, 3, 4, 6
+  Snippet: Skip to main content Sign In Search for Jobs Software Engineer Intern, BIDS page is loaded Software Engineer Intern, BIDS Apply remote type Flex/Hybrid locations New York, NY time type Full time posted on Posted 4 Days Ago job requisition id R-4145 Job Description: Building trusted markets — powered by our people. At Cboe Global Markets, we inspire our people to solve complex challenges together b
+
+- https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Software-Engineer-in-Test-Intern--Data-Vantage-Engineering_R-4157
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1, 3
+  Snippet: Skip to main content Sign In Search for Jobs Software Engineer in Test Intern, Data Vantage Engineering page is loaded Software Engineer in Test Intern, Data Vantage Engineering Apply remote type Flex/Hybrid locations Chicago, IL time type Full time posted on Posted 4 Days Ago job requisition id R-4157 Job Description: Building trusted markets — powered by our people. At Cboe Global Markets, we in
+
+- https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--Data-Vantage_R-4116
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 3
+  Snippet: Skip to main content Sign In Search for Jobs Software Engineer Intern, Data Vantage page is loaded Software Engineer Intern, Data Vantage Apply remote type Flex/Hybrid locations Kansas City, MO Chicago, IL time type Full time posted on Posted 4 Days Ago job requisition id R-4116 Job Description: Building trusted markets — powered by our people. At Cboe Global Markets, we inspire our people to solv
+
+- https://jobs.ashbyhq.com/snowflake/874e8974-af23-491b-9720-eddc6e75f1eb
+  Title: Software Engineer Intern (Infrastructure Automation) - Spring 2026 @ Snowflake
+  Company: ashbyhq
+  Assigned: 6
+  Snippet: SOFTWARE ENGINEER INTERN (INFRASTRUCTURE AUTOMATION) - SPRING 2026 LOCATION US-CA-Menlo Park, US-WA-Bellevue EMPLOYMENT TYPE Full time DEPARTMENT Engineering COMPENSATION $42.00 – $60.00 per hour Overview Application Where Data Does More. Join the Snowflake team. Snowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Sn
+
+- https://jobs.ashbyhq.com/snowflake/f385b0fa-d5fc-4678-abde-737436611164
+  Title: Software Engineer Intern (Database Engineering) - Spring 2026 @ Snowflake
+  Company: ashbyhq
+  Assigned: 3, 6
+  Snippet: SOFTWARE ENGINEER INTERN (DATABASE ENGINEERING) - SPRING 2026 LOCATION US-CA-Menlo Park, US-WA-Bellevue EMPLOYMENT TYPE Full time DEPARTMENT Engineering COMPENSATION $42.00 – $60.00 per hour Overview Application Where Data Does More. Join the Snowflake team. Snowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Snowfla
+
+- https://jobs.ashbyhq.com/snowflake/1bdb0ea7-a7f4-4499-9f84-6b35fdd488ea
+  Title: Software Engineer Intern (Core Engineering) - Spring 2026 @ Snowflake
+  Company: ashbyhq
+  Assigned: 3
+  Snippet: SOFTWARE ENGINEER INTERN (CORE ENGINEERING) - SPRING 2026 LOCATION US-CA-Menlo Park, US-WA-Bellevue EMPLOYMENT TYPE Full time DEPARTMENT Engineering COMPENSATION $42.00 – $60.00 per hour Overview Application Where Data Does More. Join the Snowflake team. Snowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Snowflake d
+
+- https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---IL-Remote/Data-Engineer-Intern_R21465
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 3
+  Snippet: Skip to main content This website uses cookies and similar technology to better understand how visitors use our site and offer you a more personalized experience. Click Accept Cookies to agree to our use of cookies or Decline if you do not want us to use cookies. See our Cookie Policy for details. Decline Accept Cookies English Sign In Home Data Engineer Intern page is loaded Data Engineer Intern 
+
+- https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Summer-2026-Aerospace-Software-Developer-Intern---Undergraduate_R55024
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 6
+  Snippet: Skip to main content Sign In Search for Jobs Summer 2026 Aerospace Software Developer Intern - Undergraduate page is loaded Summer 2026 Aerospace Software Developer Intern - Undergraduate Apply locations Seattle, WA Denver, CO Los Angeles, CA time type Full time posted on Posted 7 Days Ago time left to apply End Date: October 10, 2025 (28 days left to apply) job requisition id R55024 Application c
+
+- https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Summer-2026-Aerospace-Software-Developer-Internship---Graduate-Student_R55021
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 6
+  Snippet: Skip to main content Sign In Search for Jobs Summer 2026 Aerospace Software Developer Internship - Graduate Student page is loaded Summer 2026 Aerospace Software Developer Internship - Graduate Student Apply locations Seattle, WA Denver, CO Los Angeles, CA time type Full time posted on Posted 7 Days Ago time left to apply End Date: October 10, 2025 (28 days left to apply) job requisition id R55021
+
+- https://careers.servicenow.com/jobs/744000079993731/utg-software-engineer-internships-summer-2026/
+  Title: UTG - Software Engineer Internships - Summer 2026, San Diego | ServiceNow Careers
+  Company: ServiceNow Careers
+  Assigned: 1, 3, 4, 6
+  Snippet: UTG - Software Engineer Internships - Summer 2026 Early in Career San Diego Flexible September 04, 2025 JB0062860 Apply Now Save Open sharing options See all jobs Company Description It all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing in
+
+- https://jobs-fmglobal.icims.com/jobs/15890/software-engineering-co-op/job
+  Title: Software Engineering Co-Op in Johnston, Rhode Island | Careers at Corporate Offices
+  Company: FM Global Career Center (External)
+  Assigned: 1, 4, 5
+  Snippet: Skip to Main Content Welcome page Returning Candidate? Log back in! Software Engineering Co-Op Location US-RI-Johnston Job ID 2025-15890 # Positions 1 Work Location Works from a home office Employee Type Temporary Category University Recruiting - Opportunities for Students and Recent Graduates - Internship/Coop - Information Services Min USD $24.00/Hr. Max USD $33.00/Hr. On-Site, Remote, or Hybrid
+
+- https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineering-Undergraduate-Internship_R-68767
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1
+  Snippet: Skip to main content English Sign In Job Search Software Engineering Undergraduate Internship page is loaded Software Engineering Undergraduate Internship Apply locations Beaverton, Oregon time type Full time posted on Posted 3 Days Ago job requisition id R-68767 NIKE is a technology company. From our flagship website and five-star mobile apps to developing products, managing big data, and providi
+
+- https://guardianlife.wd5.myworkdayjobs.com/en-US/guardian-life-careers/job/Bethlehem/XMLNAME-2026-Guardian-Summer-Intern--Digital---Technology---Cloud---DevOps_R000107665
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1, 6
+  Snippet: Skip to main content Careers Sign In Home Search for Jobs 2026 Guardian Summer Intern, Digital & Technology – Cloud & DevOps page is loaded 2026 Guardian Summer Intern, Digital & Technology – Cloud & DevOps Apply locations Bethlehem Holmdel time type Full time posted on Posted 9 Days Ago time left to apply End Date: November 14, 2025 (30+ days left to apply) job requisition id R000107665 2026 Guar
+
+- https://lowes.wd5.myworkdayjobs.com/en-US/lws_external_cs/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer--Undergraduate-Internship_JR-02219600
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1, 3
+  Snippet: Skip to main content Sign In Careers Home Software Engineer, Undergraduate Internship page is loaded Software Engineer, Undergraduate Internship Apply remote type Flex locations Lowe's Charlotte Technology Hub 3505 time type Full time posted on Posted 3 Days Ago job requisition id JR-02219600 Your Impact Lowe’s Software Engineers help drive the design, maintenance, testing and evaluation of the so
+
+- https://lowes.wd5.myworkdayjobs.com/en-US/lws_external_cs/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineer--Undergraduate-Internship_JR-02219599
+  Title: Careers
+  Company: myworkdayjobs
+  Assigned: 1
+  Snippet: Skip to main content Sign In Careers Home Exploratory Software Engineer, Undergraduate Internship page is loaded Exploratory Software Engineer, Undergraduate Internship Apply remote type Flex locations Lowe's Charlotte Technology Hub 3505 time type Full time posted on Posted 3 Days Ago job requisition id JR-02219599 Your Impact Lowe’s Software Engineers help drive the design, maintenance, testing 
+
+- https://medline.wd5.myworkdayjobs.com/en-US/medline/job/Northbrook-Illinois/IT-Software-Engineer-Intern---Summer-2026_R2514381
+  Title: Medline Careers
+  Company: myworkdayjobs
+  Assigned: 1
+  Snippet: Skip to main content Medline Careers IT Software Engineer Intern - Summer 2026 page is loaded IT Software Engineer Intern - Summer 2026 Apply remote type Hybrid locations Northbrook, Illinois University Recruiting time type Full time posted on Posted 9 Days Ago job requisition id R2514381 Job Summary With more than 50+ years of consecutive growth, we’ve created a dynamic workplace where over 36,00
+
+- https://medline.wd5.myworkdayjobs.com/en-US/medline/job/Northbrook-Illinois/IT-Software-Engineer-Intern---Summer-2026_R2514382
+  Title: Medline Careers
+  Company: myworkdayjobs
+  Assigned: 1
+  Snippet: Skip to main content Medline Careers IT Software Engineer Intern - Summer 2026 page is loaded IT Software Engineer Intern - Summer 2026 Apply remote type Hybrid locations Northbrook, Illinois University Recruiting time type Full time posted on Posted 9 Days Ago job requisition id R2514382 Job Summary more than 50+ years of consecutive growth, we’ve created a dynamic workplace where over 36,000 emp

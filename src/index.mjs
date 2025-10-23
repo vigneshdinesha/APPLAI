@@ -3,7 +3,7 @@ import { fetchReadmeMarkdown, extractApplyLinks, snippetAround } from "./github.
 import { buildKeywordSet, isRelevant } from "./relevance.mjs";
 import { connectToExistingChrome } from "./browser.mjs";
 import { draftWhyCompany } from "./answerer.mjs";
-import { fillCustomQuestions, createWorkdayAccount, signInWorkday, waitForEmailVerification, clickWorkdayContinue } from "./formfill.mjs";
+import { fillCustomQuestions, createWorkdayAccount, signInWorkday, waitForEmailVerification, clickWorkdayContinue, ensureWorkdayCheckboxChecked } from "./formfill.mjs";
 import { setTimeout as sleep } from "node:timers/promises";
 import { writeFile, mkdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
@@ -971,13 +971,54 @@ async function main(){
           } else {
             // ensure dynamic content has time to render after modal; some tenants load the full create-account UI slowly
             await sleep(1200);
+            // additionally poll briefly for create-account UI inside the modal or same-origin frames
+            try{
+              const POLL_MS = 4000;
+              const start = Date.now();
+              let seen = false;
+              while(Date.now() - start < POLL_MS && !seen){
+                try{
+                  seen = await page.evaluate(() => {
+                    try{
+                      const text = (document.body && document.body.innerText) ? document.body.innerText.toLowerCase() : '';
+                      if(text.includes('create account') || text.includes('password requirements') || text.includes('verify your email')) return true;
+                      if(document.querySelector('[data-automation-id*="createAccount"]') || document.querySelector('[data-automation-id*="create-account"]')) return true;
+                      const hasPwd = !!document.querySelector('input[type="password"]');
+                      const hasEmail = !!Array.from(document.querySelectorAll('input')).find(i => ((i.getAttribute('placeholder')||i.getAttribute('aria-label')||'').toLowerCase().includes('email') || i.type === 'email'));
+                      return hasPwd && hasEmail;
+                    }catch(_){ return false; }
+                  }).catch(()=>false);
+                  if(!seen){
+                    const frames = page.frames();
+                    for(const f of frames){
+                      try{
+                        const fRes = await f.evaluate(() => {
+                          try{
+                            const text = (document.body && document.body.innerText) ? document.body.innerText.toLowerCase() : '';
+                            if(text.includes('create account') || text.includes('password requirements') || text.includes('verify your email')) return true;
+                            if(document.querySelector('[data-automation-id*="createAccount"]') || document.querySelector('[data-automation-id*="create-account"]')) return true;
+                            const hasPwd = !!document.querySelector('input[type="password"]');
+                            const hasEmail = !!Array.from(document.querySelectorAll('input')).find(i => ((i.getAttribute('placeholder')||i.getAttribute('aria-label')||'').toLowerCase().includes('email') || i.type === 'email'));
+                            return hasPwd && hasEmail;
+                          }catch(_){ return false; }
+                        }).catch(()=>false);
+                        if(fRes){ seen = true; break; }
+                      }catch(_){ }
+                    }
+                  }
+                }catch(_){ }
+                if(!seen) await sleep(300);
+              }
+              if(seen && VERBOSE) console.log('create-account UI observed shortly after modal click');
+            }catch(_){ }
           }
         }
       }catch(e){ if(VERBOSE) console.log('chooseApplyModalOption outer error', String(e)); }
 
       // Immediately check whether a Create Account form appeared in the modal or page after modal choice
       try{
-        const acctFormNow = await page.evaluate(() => {
+        // check top-level doc and also any same-origin frames for create-account UI
+        let acctFormNow = await page.evaluate(() => {
           try{
             const text = (document.body && document.body.innerText) ? document.body.innerText.toLowerCase() : '';
             if(text.includes('create account') || text.includes('create my account') || text.includes('verify your email') || text.includes('password requirements')) return true;
@@ -987,15 +1028,41 @@ async function main(){
             const hasEmail = !!Array.from(document.querySelectorAll('input')).find(i => ((i.getAttribute('placeholder')||i.getAttribute('aria-label')||'').toLowerCase().includes('email') || i.type === 'email' || (i.getAttribute('data-automation-id')||'').toLowerCase().includes('email')));
             return hasPwd && hasEmail;
           }catch(_){ return false; }
-        });
+        }).catch(()=>false);
+        if(!acctFormNow){
+          const frames = page.frames();
+          for(const f of frames){
+            try{
+              const fRes = await f.evaluate(() => {
+                try{
+                  const text = (document.body && document.body.innerText) ? document.body.innerText.toLowerCase() : '';
+                  if(text.includes('create account') || text.includes('create my account') || text.includes('verify your email') || text.includes('password requirements')) return true;
+                  if(document.querySelector('[data-automation-id*="createAccount"]') || document.querySelector('[data-automation-id*="create-account"]') || document.querySelector('[data-automation-id*="createAccountSubmit"]')) return true;
+                  const hasPwd = !!document.querySelector('input[type="password"]');
+                  const hasEmail = !!Array.from(document.querySelectorAll('input')).find(i => ((i.getAttribute('placeholder')||i.getAttribute('aria-label')||'').toLowerCase().includes('email') || i.type === 'email' || (i.getAttribute('data-automation-id')||'').toLowerCase().includes('email')));
+                  return hasPwd && hasEmail;
+                }catch(_){ return false; }
+              }).catch(()=>false);
+              if(fRes){ acctFormNow = true; break; }
+            }catch(_){ /* ignore cross-origin frames */ }
+          }
+        }
         if(acctFormNow){
           const email = process.env.WORKDAY_EMAIL || process.env.WORKDAY_USER || null;
           const password = process.env.WORKDAY_PASSWORD || process.env.WORKDAY_PASS || null;
           if(VERBOSE) console.log('Detected create-account after modal; WORKDAY creds present?', !!email, !!password);
-          if(email && password){
+            if(email && password){
             if(VERBOSE) console.log('Detected create-account form after modal; attempting account creation (env credentials).');
-            const acctRes = await createWorkdayAccount(page, { email, password });
+            let acctRes = await createWorkdayAccount(page, { email, password });
             if(VERBOSE) console.log('createWorkdayAccount after modal result:', acctRes);
+            // If the create action didn't check terms/consent, give it one retry (sometimes checkboxes are in a different frame)
+            if(acctRes && acctRes.ok && !acctRes.checked){
+              if(VERBOSE) console.log('createWorkdayAccount did not detect terms checkbox checked; retrying create attempt once');
+              await sleep(800);
+              acctRes = await createWorkdayAccount(page, { email, password });
+              if(VERBOSE) console.log('createWorkdayAccount retry result:', acctRes);
+            }
+
             if(acctRes && acctRes.ok && acctRes.clicked){
                 await sleep(1200);
                 // honor any next-step hints from createWorkdayAccount
@@ -1006,7 +1073,11 @@ async function main(){
                   const verified = await waitForEmailVerification(page, 3 * 60 * 1000, 7000).catch(()=>false);
                   if(verified){
                     if(VERBOSE) console.log('Email verification appeared to complete; attempting sign-in');
-                    try{ const signRes = await signInWorkday(page, { email, password }); if(VERBOSE) console.log('signInWorkday after verification result:', signRes); await sleep(1200); }catch(e){ if(VERBOSE) console.log('signInWorkday after verification failed', String(e)); }
+                    try{
+                      const checked = await ensureWorkdayCheckboxChecked(page, 2500).catch(()=>false);
+                      if(checked){ const signRes = await signInWorkday(page, { email, password }); if(VERBOSE) console.log('signInWorkday after verification result:', signRes); await sleep(1200); }
+                      else { if(VERBOSE) console.log('Checkbox not confirmed; skipping sign-in after verification'); }
+                    }catch(e){ if(VERBOSE) console.log('signInWorkday after verification failed', String(e)); }
                   } else {
                     if(VERBOSE) console.log('Email verification did not complete within timeout; leaving page open for manual verification');
                     applied[url] = { ts: new Date().toISOString(), status: 'verify_email' };
@@ -1015,21 +1086,37 @@ async function main(){
                     continue;
                   }
                 }
-                if(acctRes.next === 'sign-in'){
+                  if(acctRes.next === 'sign-in'){
                   if(VERBOSE) console.log('createWorkdayAccount signaled sign-in; attempting signInWorkday');
                   try{
-                    const signRes = await signInWorkday(page, { email, password });
-                    if(VERBOSE) console.log('signInWorkday after create result:', signRes);
-                    await sleep(1200);
-                    // attempt to advance past Speedy Apply first page if present
-                    try{ const advanced = await clickWorkdayContinue(page, 5000); if(VERBOSE) console.log('clickWorkdayContinue after sign-in:', advanced); }catch(_){ }
+                    // only attempt sign-in if the account creation step actually clicked the Create button
+                    if(acctRes.clicked){
+                      const checked = await ensureWorkdayCheckboxChecked(page, 2500).catch(()=>false);
+                      if(checked){ const signRes = await signInWorkday(page, { email, password }); if(VERBOSE) console.log('signInWorkday after create result:', signRes); }
+                      else { if(VERBOSE) console.log('Checkbox not confirmed; skipping sign-in after create'); }
+                      await sleep(1200);
+                      // attempt to advance past Speedy Apply first page if present
+                      try{ const advanced = await clickWorkdayContinue(page, 5000); if(VERBOSE) console.log('clickWorkdayContinue after sign-in:', advanced); }catch(_){ }
+                    } else {
+                      if(VERBOSE) console.log('Account creation did not click Create; skipping sign-in attempt');
+                    }
                   }catch(e){ if(VERBOSE) console.log('signInWorkday after create failed', String(e)); }
                 } else {
                   // generic fallback: try sign-in anyway
-                  try{ const signRes = await signInWorkday(page, { email, password }); if(VERBOSE) console.log('signInWorkday fallback after create result:', signRes); await sleep(1200); }catch(_){ }
+                  // Only attempt fallback sign-in if the create click actually happened and the checkbox was checked
+                  try{ if(acctRes.clicked && acctRes.checked){ const signRes = await signInWorkday(page, { email, password }); if(VERBOSE) console.log('signInWorkday fallback after create result:', signRes); await sleep(1200); } else { if(VERBOSE) console.log('Create not clicked or checkbox not confirmed; skipping fallback sign-in'); } }catch(_){ }
                   // try to advance after sign-in/fallback (resume autopopulate page)
-                  try{ const advanced = await clickWorkdayContinue(page, 5000); if(VERBOSE) console.log('clickWorkdayContinue after create fallback:', advanced); }catch(_){ }
+                  try{ if(acctRes.clicked && acctRes.checked){ const advanced = await clickWorkdayContinue(page, 5000); if(VERBOSE) console.log('clickWorkdayContinue after create fallback:', advanced); } else { if(VERBOSE) console.log('Create not clicked or checkbox not confirmed; skipping advance-after-create'); } }catch(_){ }
                 }
+            }
+            else {
+              // create didn't click or checkbox wasn't checked — save diagnostics and leave open for manual completion
+              if(VERBOSE) console.log('Account creation did not complete (click or checkbox missing); saving diagnostics and leaving open for manual completion');
+              try{ await saveDiagnostics(page, 'create-incomplete'); }catch(_){ }
+              applied[url] = { ts: new Date().toISOString(), status: 'create_incomplete' };
+              saveApplied(applied);
+              leaveOpen = true;
+              continue;
             }
           } else {
             if(VERBOSE) console.log('Create-account form appeared but no WORKDAY_EMAIL/WORKDAY_PASSWORD present; leaving open.');
@@ -1044,7 +1131,8 @@ async function main(){
 
       // Detect Workday 'Create Account' page and attempt to create an account if credentials are provided via env
       try{
-        const createDetected = await page.evaluate(() => {
+        // detect create-account in top-level doc or same-origin frames
+        let createDetected = await page.evaluate(() => {
           try{
             const text = (document.body && document.body.innerText) ? document.body.innerText.toLowerCase() : '';
             if(text.includes('create account') || text.includes('create my account') || text.includes('password requirements')) return true;
@@ -1056,18 +1144,41 @@ async function main(){
             if(hasPwd && hasEmail) return true;
             return false;
           }catch(_){ return false; }
-        });
+        }).catch(()=>false);
+        if(!createDetected){
+          const frames = page.frames();
+          for(const f of frames){
+            try{
+              const cf = await f.evaluate(() => {
+                try{
+                  const text = (document.body && document.body.innerText) ? document.body.innerText.toLowerCase() : '';
+                  if(text.includes('create account') || text.includes('create my account') || text.includes('password requirements')) return true;
+                  if(document.querySelector('[data-automation-id*="createAccount"]') || document.querySelector('[data-automation-id*="create-account"]') || document.querySelector('[data-automation-id*="createAccountSubmit"]')) return true;
+                  const btn = Array.from(document.querySelectorAll('button,input[type=submit],input[type=button]')).find(b => ((b.innerText||b.value||'').toLowerCase().includes('create account') || (b.getAttribute('data-automation-id')||'').toLowerCase().includes('create')));
+                  if(btn) return true;
+                  const hasPwd = !!document.querySelector('input[type="password"]');
+                  const hasEmail = !!Array.from(document.querySelectorAll('input')).find(i => ((i.getAttribute('placeholder')||i.getAttribute('aria-label')||'').toLowerCase().includes('email') || i.type === 'email' || (i.getAttribute('data-automation-id')||'').toLowerCase().includes('email')));
+                  if(hasPwd && hasEmail) return true;
+                  return false;
+                }catch(_){ return false; }
+              }).catch(()=>false);
+              if(cf){ createDetected = true; break; }
+            }catch(_){ }
+          }
+        }
         if(createDetected){
           const email = process.env.WORKDAY_EMAIL || process.env.WORKDAY_USER || null;
           const password = process.env.WORKDAY_PASSWORD || process.env.WORKDAY_PASS || null;
           if(VERBOSE) console.log('Detected create-account page; WORKDAY creds present?', !!email, !!password);
           if(email && password){
             if(VERBOSE) console.log('Detected create-account page; attempting account creation (using env credentials).');
-            const acctRes = await createWorkdayAccount(page, { email, password });
-            if(VERBOSE) console.log('createWorkdayAccount result:', { ok: !!acctRes && !!acctRes.ok, clicked: !!acctRes && !!acctRes.clicked, reason: acctRes && acctRes.reason ? acctRes.reason : undefined, error: acctRes && acctRes.error ? 'yes' : undefined });
+            let acctRes = await createWorkdayAccount(page, { email, password });
+            if(VERBOSE) console.log('createWorkdayAccount result:', { ok: !!acctRes && !!acctRes.ok, clicked: !!acctRes && !!acctRes.clicked, verified: acctRes && acctRes.verified, checked: acctRes && acctRes.checked, reason: acctRes && acctRes.reason ? acctRes.reason : undefined, error: acctRes && acctRes.error ? 'yes' : undefined });
+            // retry if checkbox wasn't checked
+            if(acctRes && acctRes.ok && !acctRes.checked){ if(VERBOSE) console.log('createWorkdayAccount did not detect checkbox; retrying create once'); await sleep(900); acctRes = await createWorkdayAccount(page, { email, password }); if(VERBOSE) console.log('retry result:', acctRes); }
             await sleep(1200);
               // after create, try to continue if Speedy Apply filled the first page
-              try{ const advanced = await clickWorkdayContinue(page, 5000); if(VERBOSE) console.log('clickWorkdayContinue after create:', advanced); }catch(_){ }
+              try{ if(acctRes && acctRes.clicked){ const advanced = await clickWorkdayContinue(page, 5000); if(VERBOSE) console.log('clickWorkdayContinue after create:', advanced); } else { if(VERBOSE) console.log('createWorkdayAccount did not click Create; skipping clickWorkdayContinue'); } }catch(_){ }
             // if account creation clicked a button, give the flow a chance to progress
             if(acctRes){
               if(acctRes.next === 'verify-email'){

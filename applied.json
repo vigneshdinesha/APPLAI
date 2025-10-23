@@ -167,5 +167,1334 @@
     "ts": "2025-09-06T02:15:28.454Z",
     "status": "attempted",
     "answer": "none"
+  },
+  "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development-_JR33546-1": {
+    "ts": "2025-09-06T15:29:17.185Z",
+    "status": "needs_account"
+  },
+  "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR33730": {
+    "ts": "2025-09-06T15:40:45.843Z",
+    "status": "verify_email"
+  },
+  "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Systems-Engineering_JR33643": {
+    "ts": "2025-09-06T15:49:26.087Z",
+    "status": "verify_email"
+  },
+  "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Firmware-Engineer---Product-Lifecycle-Engineering_JR33710": {
+    "ts": "2025-09-06T16:42:49.844Z",
+    "status": "verify_email"
+  },
+  "https://jobs.lever.co/bumbleinc/b21c0c9d-b805-4b82-ab4a-1a1d4c2b2ed8/apply": {
+    "ts": "2025-09-06T16:49:01.584Z",
+    "status": "unavailable"
+  },
+  "https://career-schwab.icims.com/jobs/114368/2026-charles-schwab-technology-intern---software-engineering/job": {
+    "ts": "2025-09-06T16:49:28.384Z",
+    "status": "unavailable"
+  },
+  "https://us-erac.icims.com/jobs/528006/intern---software-engineer-%28enterprise-mobility-it%29%2c-summer-2026/job": {
+    "ts": "2025-09-06T17:16:32.771Z",
+    "status": "unavailable"
+  },
+  "https://us-erac.icims.com/jobs/527999/intern---software-engineer-%28fleet-it%29%2c-summer-2026/job": {
+    "ts": "2025-09-06T17:18:31.082Z",
+    "status": "unavailable"
+  },
+  "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643292004": {
+    "ts": "2025-09-08T16:27:25.328Z",
+    "status": "unavailable"
+  },
+  "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Software-Engineer-Intern---Cboe-Clear-US_R-4113": {
+    "ts": "2025-09-08T16:28:54.279Z",
+    "status": "verify_email"
+  },
+  "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--Data-Vantage_R-4116": {
+    "ts": "2025-09-08T16:34:27.036Z",
+    "status": "verify_email"
+  },
+  "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Software-Engineer-in-Test-Intern--Data-Vantage-Engineering_R-4157": {
+    "ts": "2025-09-08T16:44:45.142Z",
+    "status": "verify_email"
+  },
+  "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Full-Stack-Software-Engineer-Intern---ASE_R-4136": {
+    "ts": "2025-09-08T16:47:12.442Z",
+    "status": "verify_email"
+  },
+  "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/New-York-NY/Software-Engineer-Intern--BIDS_R-4145": {
+    "ts": "2025-09-08T16:49:04.639Z",
+    "status": "verify_email"
+  },
+  "https://job-boards.greenhouse.io/astranis/jobs/4601131006": {
+    "ts": "2025-09-12T19:46:55.971Z",
+    "status": "unavailable"
+  },
+  "https://jobs.smartrecruiters.com/BoschGroup/744000081353235-powertrain-controls-software-engineering-intern?oga=true": {
+    "ts": "2025-09-12T19:47:32.342Z",
+    "status": "unavailable"
+  },
+  "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-047573": {
+    "ts": "2025-09-12T19:47:48.359Z",
+    "status": "error",
+    "error": "Error: Attempted to use detached Frame 'F096E7AEDA64C7F053D937886E744FC0'."
+  },
+  "https://www.akunacapital.com/job-details?gh_jid=7060087": {
+    "ts": "2025-09-15T15:14:20.725Z",
+    "status": "manual-submitted"
+  },
+  "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Co-op--Software-Full-Stack-Engineer_2117622": {
+    "ts": "2025-09-15T15:14:25.613Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/vardaspace/jobs/6824366003": {
+    "ts": "2025-09-15T15:15:40.420Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/vardaspace/jobs/6824554003": {
+    "ts": "2025-09-15T15:16:16.107Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/vardaspace/jobs/6824086003": {
+    "ts": "2025-09-15T15:16:38.831Z",
+    "status": "manual-submitted"
+  },
+  "http://neboagency.applytojob.com/apply/TtGKnP4ODV/FrontEnd-Engineering-Intern": {
+    "ts": "2025-09-15T15:17:35.772Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005": {
+    "ts": "2025-09-15T15:18:24.482Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/verkada/jobs/4836993007": {
+    "ts": "2025-09-15T15:21:47.465Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/verkada/jobs/4840368007": {
+    "ts": "2025-09-15T15:22:54.268Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/Arcade/418c36e2-3e08-4ff8-901d-927de5747e89/apply": {
+    "ts": "2025-09-15T15:26:13.730Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6": {
+    "ts": "2025-09-15T15:27:35.801Z",
+    "status": "manual-submitted"
+  },
+  "https://careers.datadoghq.com/detail/7158137/?gh_jid=7158137": {
+    "ts": "2025-09-15T15:36:47.301Z",
+    "status": "manual-submitted"
+  },
+  "https://app.careerpuck.com/job-board/lyft/job/8130804002?gh_jid=8130804002": {
+    "ts": "2025-09-15T15:40:59.544Z",
+    "status": "manual-submitted"
+  },
+  "https://careers.roblox.com/jobs/7114765?gh_jid=7114765": {
+    "ts": "2025-09-15T15:41:04.568Z",
+    "status": "manual-submitted"
+  },
+  "https://www.akunacapital.com/job-details?gh_jid=7055471": {
+    "ts": "2025-09-15T15:41:07.620Z",
+    "status": "manual-submitted"
+  },
+  "https://www.akunacapital.com/job-details?gh_jid=6996427": {
+    "ts": "2025-09-15T15:41:10.321Z",
+    "status": "manual-submitted"
+  },
+  "https://www.akunacapital.com/job-details?gh_jid=7060377": {
+    "ts": "2025-09-15T15:41:12.013Z",
+    "status": "manual-submitted"
+  },
+  "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Back-End-Software-Engineer-Intern_R0131019": {
+    "ts": "2025-09-15T15:46:08.182Z",
+    "status": "manual-submitted"
+  },
+  "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Fullstack-Software-Engineer-Intern_R0131020": {
+    "ts": "2025-09-15T15:46:09.012Z",
+    "status": "opened"
+  },
+  "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Mobile-Software-Engineer-Intern_R0131021": {
+    "ts": "2025-09-15T16:15:02.755Z",
+    "status": "manual-submitted"
+  },
+  "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Software-Engineer-Intern_R-050437": {
+    "ts": "2025-09-15T16:18:14.856Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/reframesystems/76b3c3d9-c741-4707-bd38-1d5e75781520": {
+    "ts": "2025-09-15T16:18:37.686Z",
+    "status": "manual-submitted"
+  },
+  "https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Software-Summer-2026_R-02577-1": {
+    "ts": "2025-09-15T16:22:30.844Z",
+    "status": "manual-submitted"
+  },
+  "https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Software-Spring---Summer-2026_R-02575-1": {
+    "ts": "2025-09-15T16:22:39.657Z",
+    "status": "manual-submitted"
+  },
+  "https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Software-Spring-2026_R-02576-1": {
+    "ts": "2025-09-15T16:22:43.531Z",
+    "status": "manual-submitted"
+  },
+  "https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Software-Summer-2026_R-02579-2": {
+    "ts": "2025-09-15T16:24:25.481Z",
+    "status": "manual-submitted"
+  },
+  "https://www.epirusinc.com/open-roles?gh_jid=5642883004": {
+    "ts": "2025-09-15T16:25:59.504Z",
+    "status": "manual-submitted"
+  },
+  "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Associate-Software-Engineer_2117623": {
+    "ts": "2025-09-15T16:26:10.415Z",
+    "status": "manual-submitted"
+  },
+  "https://careers-gdms.icims.com/jobs/68071/software-intern-engineer/job": {
+    "ts": "2025-09-15T16:26:30.315Z",
+    "status": "manual-submitted"
+  },
+  "https://careers-gdms.icims.com/jobs/68025/software-engineer-%e2%80%93-intern/job": {
+    "ts": "2025-09-15T16:34:24.683Z",
+    "status": "manual-submitted"
+  },
+  "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Halethorpe-Maryland-United-States-of-America/Abiomed-Software-R-D-Spring-2026-Co-Op_R-030690": {
+    "ts": "2025-09-15T16:44:19.201Z",
+    "status": "manual-submitted"
+  },
+  "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Madison-WI/Intern---IT-Software-Engineer-Spring-2026_R21648": {
+    "ts": "2025-09-15T16:49:05.334Z",
+    "status": "manual-submitted"
+  },
+  "https://aholddelhaizeusa.careerswithus.com/job/Co-Ops/Fulfillment-Software-Engineer-Co-op-Spring-2026/Quincy-MA/ADUSArms/454089_external_USA-MA-Quincy": {
+    "ts": "2025-09-15T16:56:51.534Z",
+    "status": "manual-submitted"
+  },
+  "https://aholddelhaizeusa.careerswithus.com/job/Co-Ops/Fulfillment-Software-Engineer-Co-op-Spring-2026/Chicago-IL/ADUSArms/454089_external_USA-IL-Chicago": {
+    "ts": "2025-09-15T16:56:57.296Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/RESPECInc/744000080649494-student-software-engineering-intern?oga=true": {
+    "ts": "2025-09-15T16:59:12.709Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/snowflake/075c4cb0-6b1a-4f3a-8117-637be356cd45": {
+    "ts": "2025-09-15T16:59:18.958Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/testnisc/jobs/7233168": {
+    "ts": "2025-09-15T17:01:44.016Z",
+    "status": "manual-submitted"
+  },
+  "https://aholddelhaizeusa.careerswithus.com/job/Co-Ops/Front-End-Engineer-Co-op-Spring-2026/Chicago-IL/ADUSArms/453640_external_USA-IL-Chicago": {
+    "ts": "2025-09-15T17:01:51.844Z",
+    "status": "manual-submitted"
+  },
+  "https://aholddelhaizeusa.careerswithus.com/job/Co-Ops/Software-Development-Co-op-Spring-2026/Quincy-MA/ADUSArms/453657_external_USA-MA-Quincy": {
+    "ts": "2025-09-15T17:01:55.517Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/perpay/jobs/4076988007": {
+    "ts": "2025-09-15T21:23:59.605Z",
+    "status": "opened"
+  },
+  "https://www.citadel.com/careers/details/software-engineer-intern-us/": {
+    "ts": "2025-09-15T21:31:03.462Z",
+    "status": "manual-submitted"
+  },
+  "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/": {
+    "ts": "2025-09-15T21:31:04.434Z",
+    "status": "opened"
+  },
+  "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002": {
+    "ts": "2025-09-16T00:20:50.661Z",
+    "status": "opened"
+  },
+  "https://www.deshaw.com/careers/5521": {
+    "ts": "2025-09-16T19:05:57.049Z",
+    "status": "manual-submitted"
+  },
+  "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Software-Engineer-Co-op_242751W-1": {
+    "ts": "2025-09-16T19:05:58.255Z",
+    "status": "opened"
+  },
+  "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2117625": {
+    "ts": "2025-09-16T23:45:46.159Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/kitware/ac5a8edf-d005-4706-a01c-3d3b85cadb93/apply": {
+    "ts": "2025-09-16T23:46:17.367Z",
+    "status": "manual-submitted"
+  },
+  "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer-Intern---Summer-2026_R57593": {
+    "ts": "2025-09-16T23:46:18.451Z",
+    "status": "opened"
+  },
+  "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Madison-WI/XMLNAME-2026-Summer-Intern---IT-Software-Engineer---NET-Web_R21663": {
+    "ts": "2025-09-17T15:20:41.220Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/ripplematchinterns/jobs/8161513002": {
+    "ts": "2025-09-17T15:25:31.307Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/ripplematchinterns/jobs/8161501002": {
+    "ts": "2025-09-17T15:25:32.009Z",
+    "status": "opened"
+  },
+  "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Data-Engineer_R5400": {
+    "ts": "2025-09-17T17:47:30.731Z",
+    "status": "manual-submitted"
+  },
+  "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-RiverSouth/Software-Engineer-Intern--Summer-2026-_R25-01193": {
+    "ts": "2025-09-17T17:53:05.260Z",
+    "status": "manual-submitted"
+  },
+  "https://usventure.wd1.myworkdayjobs.com/en-US/usvexternal/job/WI---Appleton/Software-Development-Intern---US-AutoForce_R4289": {
+    "ts": "2025-09-17T17:55:09.367Z",
+    "status": "manual-submitted"
+  },
+  "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Firmware-Intern_JR33781": {
+    "ts": "2025-09-17T17:58:04.749Z",
+    "status": "manual-submitted"
+  },
+  "https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/US---WI---Milwaukee-Global-Water-Center/Software-Engineering-Intern_4016": {
+    "ts": "2025-09-17T17:58:57.732Z",
+    "status": "manual-submitted"
+  },
+  "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Des-Moines-Iowa-United-States/Software-Engineer-Intern_243147W-1": {
+    "ts": "2025-09-17T18:04:55.116Z",
+    "status": "manual-submitted"
+  },
+  "https://careers-daytonfreight.icims.com/jobs/16715/software-developer-intern/job": {
+    "ts": "2025-09-17T18:10:22.868Z",
+    "status": "manual-submitted"
+  },
+  "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2026-Software-Development-Internship--_RQ206980": {
+    "ts": "2025-09-17T18:18:11.699Z",
+    "status": "manual-submitted"
+  },
+  "https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Burlington-NC/Intern---Software-Development_2530441": {
+    "ts": "2025-09-17T18:18:19.109Z",
+    "status": "manual-submitted"
+  },
+  "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2026---Candidates-Attending-2025--SWE-National-Convention_R44915-1": {
+    "ts": "2025-09-17T18:18:43.063Z",
+    "status": "manual-submitted"
+  },
+  "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2026---Candidates-Attending-2025--SWE-National-Convention_R44915": {
+    "ts": "2025-09-17T18:19:25.235Z",
+    "status": "manual-submitted"
+  },
+  "https://usventure.wd1.myworkdayjobs.com/en-US/usvexternal/job/WI---Appleton/Software-Engineer-Intern---IGEN_R4271-1": {
+    "ts": "2025-09-17T18:22:13.278Z",
+    "status": "manual-submitted"
+  },
+  "https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Intern--Summer-2026-_REQ-19979": {
+    "ts": "2025-09-17T18:27:57.588Z",
+    "status": "manual-submitted"
+  },
+  "https://careers-westernsouthern.icims.com/jobs/23663/software-development-intern-%28full-year-2026%29/job": {
+    "ts": "2025-09-17T18:31:30.975Z",
+    "status": "manual-submitted"
+  },
+  "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2026-Software-Engineering-Intern_5873": {
+    "ts": "2025-09-17T18:31:32.128Z",
+    "status": "opened"
+  },
+  "https://apply.workable.com/al-warren-oil-company-inc/j/5E4723993B/": {
+    "ts": "2025-09-17T22:19:37.696Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/chathamfinancial/jobs/7183989": {
+    "ts": "2025-09-17T22:24:52.956Z",
+    "status": "manual-submitted"
+  },
+  "https://searchjobs.libertymutualgroup.com/careers/job/618513155346?utm_campaign=Built+In": {
+    "ts": "2025-09-17T22:27:16.084Z",
+    "status": "manual-submitted"
+  },
+  "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-Co-op-2026---Software-Engineering_JR25090419": {
+    "ts": "2025-09-17T22:31:10.411Z",
+    "status": "manual-submitted"
+  },
+  "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Winter-Co-op-2026---Software-Engineering_JR25081346": {
+    "ts": "2025-09-17T22:31:22.517Z",
+    "status": "manual-submitted"
+  },
+  "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-Co-op-2026---Software-Engineering_JR25081349": {
+    "ts": "2025-09-17T22:31:29.462Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/radiant/jobs/4606581005": {
+    "ts": "2025-09-17T22:33:30.524Z",
+    "status": "manual-submitted"
+  },
+  "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Software-Engineering--May-2026---December-2026-_R25-7377-1": {
+    "ts": "2025-09-17T22:33:31.447Z",
+    "status": "opened"
+  },
+  "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Software-Engineering_R25-7340-1": {
+    "ts": "2025-09-18T02:20:17.202Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/scaleai/jobs/4606014005": {
+    "ts": "2025-09-18T02:21:42.138Z",
+    "status": "manual-submitted"
+  },
+  "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Software-Engineer_R5393": {
+    "ts": "2025-09-18T02:21:43.033Z",
+    "status": "opened"
+  },
+  "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Summer-Internship-Program---Platforms-and-Technology---Software-Engineer_R_1443921": {
+    "ts": "2025-09-18T18:48:50.639Z",
+    "status": "manual-submitted"
+  },
+  "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Summer-Internship-Program---Platforms-and-Technology---Software-Engineer_R_1443892": {
+    "ts": "2025-09-18T18:48:55.596Z",
+    "status": "manual-submitted"
+  },
+  "https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Pleasanton-California-USA/Software-Intern_R-01328068": {
+    "ts": "2025-09-18T18:49:07.616Z",
+    "status": "manual-submitted"
+  },
+  "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineer-II_R-2291126": {
+    "ts": "2025-09-18T18:57:22.103Z",
+    "status": "manual-submitted"
+  },
+  "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern---Real-Time_R-4149": {
+    "ts": "2025-09-18T19:00:01.091Z",
+    "status": "manual-submitted"
+  },
+  "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R25_0000032853": {
+    "ts": "2025-09-18T19:00:02.086Z",
+    "status": "opened"
+  },
+  "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Mobile-Software-Development-Intern_R25_0000032849": {
+    "ts": "2025-09-18T19:54:06.420Z",
+    "status": "manual-submitted"
+  },
+  "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R25_0000032842": {
+    "ts": "2025-09-18T19:54:41.403Z",
+    "status": "manual-submitted"
+  },
+  "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR984": {
+    "ts": "2025-09-18T19:54:42.230Z",
+    "status": "opened"
+  },
+  "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Home-Office-USA/Intern--Software-Engineering_250003598-2": {
+    "ts": "2025-09-18T20:12:48.059Z",
+    "status": "manual-submitted"
+  },
+  "https://boards.greenhouse.io/vast/jobs/4594952006?gh_jid=4594952006": {
+    "ts": "2025-09-18T20:14:12.031Z",
+    "status": "manual-submitted"
+  },
+  "https://drivetime.wd1.myworkdayjobs.com/en-US/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2026-_R13250-1": {
+    "ts": "2025-09-18T20:17:22.067Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/fleetpulse/3cc4daf2-146d-4bdd-98b4-fdb6fdfb9225": {
+    "ts": "2025-09-18T20:18:59.979Z",
+    "status": "manual-submitted"
+  },
+  "https://spgi.wd5.myworkdayjobs.com/en-US/kensho_careers/job/New-York-NY/Software-Engineer-Intern---Summer-2026_319680-1": {
+    "ts": "2025-09-18T20:21:42.398Z",
+    "status": "manual-submitted"
+  },
+  "https://www.mastercontrol.com/careers/job-listings/role/?role=4601626005&gh_jid=4601626005": {
+    "ts": "2025-09-18T20:23:31.440Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/muonspace/jobs/4856413007": {
+    "ts": "2025-09-18T20:24:10.241Z",
+    "status": "manual-submitted"
+  },
+  "http://neboagency.applytojob.com/apply/VhgOaS6Nx3/BackEnd-Engineering-Intern": {
+    "ts": "2025-09-18T20:24:24.174Z",
+    "status": "manual-submitted"
+  },
+  "https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Internship---Ditch-Witch_JR13837": {
+    "ts": "2025-09-18T20:24:44.014Z",
+    "status": "manual-submitted"
+  },
+  "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Product-Management---Intern_R51554": {
+    "ts": "2025-09-18T20:25:29.907Z",
+    "status": "manual-submitted"
+  },
+  "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1192969": {
+    "ts": "2025-09-18T20:25:43.943Z",
+    "status": "manual-submitted"
+  },
+  "https://inmar.wd1.myworkdayjobs.com/en-US/inmarcareers/job/Headquarters-Winston-Salem-NC/Software-Engineering-Internships--Summer-2026_JY2526509": {
+    "ts": "2025-09-18T20:25:44.790Z",
+    "status": "opened"
+  },
+  "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R101003": {
+    "ts": "2025-09-18T22:12:58.409Z",
+    "status": "manual-submitted"
+  },
+  "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineering-Undergraduate-Internship_R-68767": {
+    "ts": "2025-09-18T22:12:59.281Z",
+    "status": "opened"
+  },
+  "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Software-Engineer-Internship_R101003-1": {
+    "ts": "2025-09-18T23:54:51.243Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.baesystems.com/global/en/job/BAE1US115385BREXTERNAL/Software-Engineering-Intern-Summer-2026": {
+    "ts": "2025-09-18T23:54:54.733Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/brevium/jobs/4598383006": {
+    "ts": "2025-09-18T23:55:22.675Z",
+    "status": "manual-submitted"
+  },
+  "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Lowell-MI/Software-Engineering-Intern_JR-047427": {
+    "ts": "2025-09-18T23:55:59.767Z",
+    "status": "manual-submitted"
+  },
+  "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2026_REQ124": {
+    "ts": "2025-09-18T23:58:14.079Z",
+    "status": "manual-submitted"
+  },
+  "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2026_REQ127": {
+    "ts": "2025-09-18T23:58:19.083Z",
+    "status": "manual-submitted"
+  },
+  "https://apply.workable.com/eluvio/j/A4B7904A29/": {
+    "ts": "2025-09-18T23:58:30.955Z",
+    "status": "manual-submitted"
+  },
+  "https://guardianlife.wd5.myworkdayjobs.com/en-US/guardian-life-careers/job/Bethlehem/XMLNAME-2026-Guardian-Summer-Intern--Digital---Technology---Cloud---DevOps_R000107665": {
+    "ts": "2025-09-18T23:58:31.986Z",
+    "status": "opened"
+  },
+  "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Cloud-Engineer-Intern--Colorado-_1193622": {
+    "ts": "2025-09-21T02:40:25.922Z",
+    "status": "manual-submitted"
+  },
+  "https://lowes.wd5.myworkdayjobs.com/en-US/lws_external_cs/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer--Undergraduate-Internship_JR-02219600": {
+    "ts": "2025-09-21T02:45:50.403Z",
+    "status": "manual-submitted"
+  },
+  "https://lowes.wd5.myworkdayjobs.com/en-US/lws_external_cs/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineer--Undergraduate-Internship_JR-02219599": {
+    "ts": "2025-09-21T02:46:13.561Z",
+    "status": "manual-submitted"
+  },
+  "https://medline.wd5.myworkdayjobs.com/en-US/medline/job/Northbrook-Illinois/IT-Software-Engineer-Intern---Summer-2026_R2514381": {
+    "ts": "2025-09-21T02:48:49.770Z",
+    "status": "manual-submitted"
+  },
+  "https://medline.wd5.myworkdayjobs.com/en-US/medline/job/Northbrook-Illinois/IT-Software-Engineer-Intern---Summer-2026_R2514382": {
+    "ts": "2025-09-21T02:50:00.849Z",
+    "status": "manual-submitted"
+  },
+  "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Development-Test-Engineer-I--USC--Co-Op-_R43790": {
+    "ts": "2025-09-21T02:57:59.295Z",
+    "status": "manual-submitted"
+  },
+  "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Northridge-California-United-States-of-America/Software-Development-Test-Engineer-I--USC--Co-Op-_R43790-1": {
+    "ts": "2025-09-21T02:58:05.276Z",
+    "status": "manual-submitted"
+  },
+  "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Software-Development_R146632-1": {
+    "ts": "2025-09-21T02:58:09.298Z",
+    "status": "manual-submitted"
+  },
+  "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern---Summer-2026_R51540": {
+    "ts": "2025-09-21T02:59:57.279Z",
+    "status": "manual-submitted"
+  },
+  "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/Any-Location--Remote/Summer-2026-Software-Developer--Internship_RQ206985-1": {
+    "ts": "2025-09-21T03:15:49.987Z",
+    "status": "manual-submitted"
+  },
+  "https://thrivent.wd5.myworkdayjobs.com/en-US/external/job/Remote-Minnesota/Associate-Software-Engineer-Intern---Summer-2026_REQ-44296": {
+    "ts": "2025-09-21T03:23:08.159Z",
+    "status": "manual-submitted"
+  },
+  "https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Hillsboro-Oregon-USA/Software-Engineering-Co-op_R-01328128": {
+    "ts": "2025-09-21T03:23:14.153Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/snowflake/874e8974-af23-491b-9720-eddc6e75f1eb": {
+    "ts": "2025-09-21T03:23:16.961Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/snowflake/f385b0fa-d5fc-4678-abde-737436611164": {
+    "ts": "2025-09-21T03:23:19.601Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/snowflake/1bdb0ea7-a7f4-4499-9f84-6b35fdd488ea": {
+    "ts": "2025-09-21T03:23:22.264Z",
+    "status": "manual-submitted"
+  },
+  "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Summer-2026-Aerospace-Software-Developer-Intern---Undergraduate_R55024": {
+    "ts": "2025-09-21T03:23:23.192Z",
+    "status": "opened"
+  },
+  "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Somerville-MA/Software-Engineer---Kotlin---Java_R55107?utm_source=Simplify&amp;ref=Simplify | Motorola | Entry Level Software Engineer - Kotlin - Java | Cambridge, MA": {
+    "ts": "2025-09-21T03:44:50.960Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply?utm_source=Simplify&amp;ref=Simplify | WeRide | New Grads 2026 - General Software Engineer | San Jose, CA": {
+    "ts": "2025-09-21T03:46:00.173Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/alumniventures/jobs/4027838009?utm_source=Simplify&amp;ref=Simplify | Alumni Ventures | Software Engineer – Early Career | Andover, MA": {
+    "ts": "2025-09-22T01:51:08.889Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8/application?utm_source=Simplify&amp;ref=Simplify | Watershed | Software engineer – New grad | SF": {
+    "ts": "2025-09-22T01:53:24.021Z",
+    "status": "manual-submitted"
+  },
+  "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534?utm_source=Simplify&amp;ref=Simplify | Macy's | Macy's Tech Early Careers - Software Engineer | Johns Creek, GA": {
+    "ts": "2025-09-22T01:54:47.505Z",
+    "status": "manual-submitted"
+  },
+  "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Developer_JR2025470637-1?utm_source=Simplify&amp;ref=Simplify | The Boeing Company | Entry Level Software Engineer-Developer | Oklahoma City, OK": {
+    "ts": "2025-09-22T01:54:48.521Z",
+    "status": "opened"
+  },
+  "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602566006?utm_source=Simplify&amp;ref=Simplify | mthree | Entry Level - C Software Developer | Tampa, FL": {
+    "ts": "2025-09-22T15:54:03.740Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602555006?utm_source=Simplify&amp;ref=Simplify | ↳ | Entry Level - C Software Developer | Tampa, FL": {
+    "ts": "2025-09-22T15:54:07.517Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8?utm_source=Simplify&amp;ref=Simplify | Watershed | Software engineer, new grad | San Francisco": {
+    "ts": "2025-09-22T15:54:22.375Z",
+    "status": "manual-submitted"
+  },
+  "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Gatekeeper-Associate-Software-Engineer-Software-Engineer----15039-_R10207436?utm_source=Simplify&amp;ref=Simplify | Northrop Grumman | Sentinel Gatekeeper Associate Software Engineer/Software Engineer 🇺🇸 | Roy, UT": {
+    "ts": "2025-09-22T15:54:26.266Z",
+    "status": "manual-submitted"
+  },
+  "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Entry-Level-Software-Engineer_R57795?utm_source=Simplify&amp;ref=Simplify | Motorola | Entry Level Software Engineer | Edinburgh, UK": {
+    "ts": "2025-09-22T15:57:40.414Z",
+    "status": "manual-submitted"
+  },
+  "https://careers-peraton.icims.com/jobs/159860/job?mobile=true&amp;needsRedirect=false&amp;utm_source=Simplify&amp;ref=Simplify | Peraton | Junior Level Software Engineering - Associate 🇺🇸 | King George County, VA": {
+    "ts": "2025-09-22T15:57:41.454Z",
+    "status": "opened"
+  },
+  "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Associate_R0016789-1?utm_source=Simplify&amp;ref=Simplify | AllianceBernstein | Software Development Associate | Nashville, TN": {
+    "ts": "2025-09-22T16:56:39.271Z",
+    "status": "manual-submitted"
+  },
+  "https://careers.hireology.com/hireology2/2521103/description?utm_source=Simplify&amp;ref=Simplify | Hireology | Associate Software Engineer 🛂 | Remote in USA": {
+    "ts": "2025-09-22T17:03:05.219Z",
+    "status": "manual-submitted"
+  },
+  "https://boards.greenhouse.io/embed/job_app?token=7326972003&amp;utm_source=Simplify&amp;ref=Simplify | Konrad Group | Software Developer Entry Level | Toronto, ON, Canada": {
+    "ts": "2025-09-22T17:09:16.452Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.cisco.com/jobs/ProjectDetail/Ensoft-Early-in-Career-Graduate-Software-Engineering-UK/1450555?utm_source=Simplify&amp;ref=Simplify | Cisco | Ensoft – Early in Career /Graduate Software Engineering | Welwyn Garden City, UK": {
+    "ts": "2025-09-22T17:09:23.586Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application?utm_source=Simplify&amp;ref=Simplify | Eventual | Software Engineer – New Grad | SF": {
+    "ts": "2025-09-22T17:11:08.512Z",
+    "status": "manual-submitted"
+  },
+  "https://careers.duolingo.com/jobs/8155283002?gh_jid=8155283002&amp;utm_source=Simplify&amp;ref=Simplify | 🔥 Duolingo | Software Engineer – New Graduate | Pittsburgh, PA": {
+    "ts": "2025-09-22T17:12:31.414Z",
+    "status": "manual-submitted"
+  },
+  "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Durham/Associate-Software-Software-Engineer_R-050446-1?utm_source=Simplify&amp;ref=Simplify | Red Hat | Associate Software Software Engineer | Durham, NC Raleigh, NC Boston, MA": {
+    "ts": "2025-09-22T17:18:09.011Z",
+    "status": "manual-submitted"
+  },
+  "https://tmhcc.wd1.myworkdayjobs.com/en-US/external/job/Georgia---Kennesaw/Associate-Full-Stack-Developer_2025-807?utm_source=Simplify&amp;ref=Simplify | TMHCC | Associate Full Stack Developer | Kennesaw, GA": {
+    "ts": "2025-09-22T17:21:56.262Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003?utm_source=Simplify&amp;ref=Simplify | Sigma Computing | Software Engineer – New Grad Program | SF NYC": {
+    "ts": "2025-09-22T17:23:07.033Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/alphataraxia/jobs/4875669007?utm_source=Simplify&amp;ref=Simplify | Alphataraxia | Software Engineer – New Grad | Washington, DC": {
+    "ts": "2025-09-22T17:25:10.894Z",
+    "status": "manual-submitted"
+  },
+  "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--MA--Mansfield--200-Chauncy-St/PON-Software-Engineer---New-Grad_R028765?utm_source=Simplify&amp;ref=Simplify | Ciena | PON Software Engineer – New Grad | Mansfield, MA": {
+    "ts": "2025-09-22T17:25:30.852Z",
+    "status": "manual-submitted"
+  },
+  "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207-1?utm_source=Simplify&amp;ref=Simplify | LPL Financial Holdings | New Grad 2026 - Technology - Software Development | Austin, TX Fort Mill, SC San Diego, CA": {
+    "ts": "2025-09-22T17:25:31.730Z",
+    "status": "opened"
+  },
+  "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&amp;needsRedirect=false&amp;utm_source=Simplify&amp;ref=Simplify | Dayton Freight Lines | Entry Level Software Developer | Dayton, OH": {
+    "ts": "2025-09-24T03:58:31.840Z",
+    "status": "manual-submitted"
+  },
+  "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145734?utm_source=Simplify&amp;ref=Simplify | Amentum | Entry Level Software Engineer | Fredericksburg, VA Dahlgren, VA": {
+    "ts": "2025-09-24T03:58:45.832Z",
+    "status": "manual-submitted"
+  },
+  "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&amp;needsRedirect=false&amp;utm_source=Simplify&amp;ref=Simplify | General Dynamics Mission Systems | Software Engineer – Entry Level | Pittsfield, MA": {
+    "ts": "2025-09-24T03:59:42.773Z",
+    "status": "manual-submitted"
+  },
+  "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-for-Naval-Research-Technology_R0145740?utm_source=Simplify&amp;ref=Simplify | Amentum | Entry Level Software Engineer | Fredericksburg, VA Dahlgren, VA": {
+    "ts": "2025-09-24T03:59:50.756Z",
+    "status": "manual-submitted"
+  },
+  "https://careers-gdms.icims.com/jobs/67905/job?mobile=true&amp;needsRedirect=false&amp;utm_source=Simplify&amp;ref=Simplify | General Dynamics Mission Systems | Software Engineer – Entry Level | Manassas, VA": {
+    "ts": "2025-09-24T04:00:15.801Z",
+    "status": "manual-submitted"
+  },
+  "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&amp;needsRedirect=false&amp;utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer Entry Level - Java / C++ | Manassas, VA": {
+    "ts": "2025-09-24T04:00:53.914Z",
+    "status": "manual-submitted"
+  },
+  "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/Sunnyvale/Associate-Software-Engineer---Sunnyvale--CA_R37010?utm_source=Simplify&amp;ref=Simplify | Costar | Associate Software Engineer 🛂 | Sunnyvale, CA": {
+    "ts": "2025-09-24T04:10:49.458Z",
+    "status": "manual-submitted"
+  },
+  "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Full-Stack-Junior-Developer_R46739-1?utm_source=Simplify&amp;ref=Simplify | Jonas | Full Stack Junior Developer | Remote in Canada": {
+    "ts": "2025-09-24T04:13:01.851Z",
+    "status": "manual-submitted"
+  },
+  "https://apply.workable.com/trexquant/j/11DC4EA360/apply?utm_source=Simplify&amp;ref=Simplify | Trexquant | Software Engineer – Early Career | Stamford, CT": {
+    "ts": "2025-09-24T04:13:33.877Z",
+    "status": "manual-submitted"
+  },
+  "https://www.jahnelgroup.com/apply.html?gh_jid=4160702007&amp;utm_source=Simplify&amp;ref=Simplify | Jahnel Group | Associate Software Engineer 🛂 | Schenectady, NY": {
+    "ts": "2025-09-24T04:14:11.040Z",
+    "status": "manual-submitted"
+  },
+  "https://careers.publicisgroupe.com/jobs/121511?utm_source=Simplify&amp;ref=Simplify | Epsilon | Associate, Software Engineer | Irving, TX": {
+    "ts": "2025-09-24T04:16:50.808Z",
+    "status": "manual-submitted"
+  },
+  "https://careers.publicisgroupe.com/jobs/121504?utm_source=Simplify&amp;ref=Simplify | ↳ | Associate, Software Engineer | Chicago, IL": {
+    "ts": "2025-09-24T04:17:03.001Z",
+    "status": "manual-submitted"
+  },
+  "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416?utm_source=Simplify&amp;ref=Simplify | Arm Limited | Graduate Software Applications Engineer | Austin, TX": {
+    "ts": "2025-09-24T04:17:07.811Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/radiant/jobs/4606578005?utm_source=Simplify&amp;ref=Simplify | Radiant | Software Engineer – 2026 New Graduate | El Segundo, CA": {
+    "ts": "2025-09-24T04:17:47.642Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/scaleai/jobs/4605996005?utm_source=Simplify&amp;ref=Simplify | Scale AI | Software Engineer – New Grad | SF": {
+    "ts": "2025-09-24T04:18:37.798Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/verkada/jobs/4855439007?utm_source=Simplify&amp;ref=Simplify | Verkada | Frontend Software Engineer – University Graduate 2026 | San Mateo, CA": {
+    "ts": "2025-09-24T04:19:15.479Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891/application?utm_source=Simplify&amp;ref=Simplify | Decagon | Agent Software Engineer – New Grad - 2026 Start | NYC": {
+    "ts": "2025-09-24T04:21:52.517Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer - New Grad 🛂 | San Francisco New York": {
+    "ts": "2025-09-24T04:22:00.283Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply?utm_source=Simplify&amp;ref=Simplify | Valkyrie Trading | Junior Software Engineer | Chicago, IL": {
+    "ts": "2025-09-24T04:22:53.963Z",
+    "status": "manual-submitted"
+  },
+  "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_316797?utm_source=Simplify&amp;ref=Simplify | CACI | Fullstack Web Application Software Engineer – Entry Level | Rome, NY": {
+    "ts": "2025-09-24T04:22:57.905Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application?utm_source=Simplify&amp;ref=Simplify | WhatNot | Software Engineer – 2026 New Grad | SF LA NYC": {
+    "ts": "2025-09-24T17:05:53.102Z",
+    "status": "manual-submitted"
+  },
+  "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Graduate--Colorado-_1193615-1?utm_source=Simplify&amp;ref=Simplify | Hewlett Packard Enterprise | Software Engineering Graduate | Ft. Collins, CO": {
+    "ts": "2025-09-24T17:06:00.104Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/spacex/jobs/8144023002?gh_jid=8144023002&amp;utm_source=Simplify&amp;ref=Simplify | 🔥 SpaceX | New Graduate Engineer, Software (Starship) 🇺🇸 | Starbase, TX": {
+    "ts": "2025-09-24T17:06:29.119Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/spacex/jobs/8121675002?gh_jid=8121675002&amp;utm_source=Simplify&amp;ref=Simplify | ↳ | New Graduate Engineer, Software (Starlink) 🇺🇸 | Redmond, WA": {
+    "ts": "2025-09-24T17:06:29.848Z",
+    "status": "opened"
+  },
+  "https://job-boards.greenhouse.io/2k/jobs/6688546003?utm_source=Simplify&amp;ref=Simplify | 2K | US Engineering Graduate Program | Novato, CA": {
+    "ts": "2025-09-24T19:40:36.406Z",
+    "status": "manual-submitted"
+  },
+  "https://apply.workable.com/eluvio/j/A349A0D2AF/apply?utm_source=Simplify&amp;ref=Simplify | Eluvio | Software Engineer New Grad - Msc/Bsc: AI - Core - Apps | Berkeley, CA": {
+    "ts": "2025-09-24T19:41:03.338Z",
+    "status": "manual-submitted"
+  },
+  "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R100927-1?utm_source=Simplify&amp;ref=Simplify | RELX | Aspire Tech Graduate Software Engineer I | Raleigh, NC": {
+    "ts": "2025-09-24T19:41:04.800Z",
+    "status": "opened"
+  },
+  "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2/application?utm_source=Simplify&amp;ref=Simplify | Decagon | Agent Software Engineer – New Grad - 2026 Start | SF": {
+    "ts": "2025-09-24T20:04:39.755Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005?utm_source=Simplify&amp;ref=Simplify | Glean | Software Engineer – University Grad | Palo Alto, CA SF": {
+    "ts": "2025-09-24T20:05:12.499Z",
+    "status": "manual-submitted"
+  },
+  "https://stripe.com/jobs/search?gh_jid=7210112&amp;utm_source=Simplify&amp;ref=Simplify | 🔥 Stripe | Software Engineer – New Grad | Seattle, WA SF": {
+    "ts": "2025-09-24T20:09:26.267Z",
+    "status": "manual-submitted"
+  },
+  "https://stripe.com/jobs/search?gh_jid=7206505&amp;utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer – New Grad | Toronto, ON, Canada": {
+    "ts": "2025-09-24T20:11:02.904Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=Simplify&amp;ref=Simplify | Gecko Robotics | Software Engineer – New Graduate Rotational Development Program | Boston, MA NYC": {
+    "ts": "2025-09-24T20:16:03.191Z",
+    "status": "manual-submitted"
+  },
+  "https://careers.roblox.com/jobs/7206214?gh_jid=7206214&amp;utm_source=Simplify&amp;ref=Simplify | 🔥 Roblox | Software Engineer – Early Career | Vancouver, BC, Canada": {
+    "ts": "2025-09-24T20:16:19.291Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=Simplify&amp;ref=Simplify | N1 | New Grad Software Engineer - Backend Rust | Oakland, CA NYC": {
+    "ts": "2025-09-24T20:17:29.199Z",
+    "status": "manual-submitted"
+  },
+  "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223330?utm_source=Simplify&amp;ref=Simplify | Capital One | Associate – New Grad - Software Engineer | Toronto, ON, Canada": {
+    "ts": "2025-09-24T20:17:36.193Z",
+    "status": "manual-submitted"
+  },
+  "https://lifeattiktok.com/search/7541178634444589319?utm_source=Simplify&amp;ref=Simplify | 🔥 TikTok | AI/ML Software Engineer Graduate (Data Platform TikTok BP) | San Jose, CA": {
+    "ts": "2025-09-24T20:18:05.281Z",
+    "status": "manual-submitted"
+  },
+  "https://joinbytedance.com/search/7540808448918079752?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer Graduate (AI Applications) | San Jose, CA": {
+    "ts": "2025-09-24T20:19:18.449Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e/application?utm_source=Simplify&amp;ref=Simplify | Commure | Software Engineer – Summer 2026 New Grad - Ambient AI | Mountain View, CA": {
+    "ts": "2025-09-24T20:20:34.457Z",
+    "status": "manual-submitted"
+  },
+  "https://www.commure.com/careers-detail?ashby_jid=0f13b112-8d8c-4fb1-ae3d-449cc36cd89e&amp;utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer, Ambient AI (Summer 2026 New Grad) | Mountain View, CA": {
+    "ts": "2025-09-24T20:20:37.575Z",
+    "status": "opened"
+  },
+  "https://www.samsara.com/company/careers/roles/7172579?gh_jid=7172579&amp;utm_source=Simplify&amp;ref=Simplify | 🔥 Samsara | New Grad – Software Engineering | SF": {
+    "ts": "2025-09-25T19:33:49.608Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/valon/jobs/4409152006?utm_source=Simplify&amp;ref=Simplify | Valon | Software Engineer – New Grad | SF NYC": {
+    "ts": "2025-09-25T19:34:37.431Z",
+    "status": "manual-submitted"
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/88714689822761670?utm_source=Simplify&amp;ref=Simplify | 🔥 Google | Software Engineer – Early Career - PhD - Infrastructure 🎓 | 12 locations Madison, WI Seattle, WA Austin, TX LA Raleigh, NC San Bruno, CA Durham, NC Kirkland, WA NYC Sunnyvale, CA Mountain View, CA Atlanta, GA": {
+    "ts": "2025-09-25T19:34:53.631Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764/application?utm_source=Simplify&amp;ref=Simplify | Citizen Health | Early Career Software Engineer | SF San Mateo, CA": {
+    "ts": "2025-09-25T19:37:08.595Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/empirical-security/16bd6ff1-2bd2-4f43-9108-b1ef22ad40e3?utm_source=Simplify&amp;ref=Simplify | Empirical Security | Junior Software Engineer | Remote in USA": {
+    "ts": "2025-09-25T19:37:09.420Z",
+    "status": "opened"
+  },
+  "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764?utm_source=Simplify&amp;ref=Simplify | Citizen Health | Early Career Software Engineer | San Francisco, CA San Mateo, CA Remote": {
+    "ts": "2025-09-27T03:06:24.830Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff/application?utm_source=Simplify&amp;ref=Simplify | Harvey | Software Engineer – New Grad | San Francisco, CA": {
+    "ts": "2025-09-27T03:06:55.607Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/abridge/55958eb5-109f-4e88-9793-ed2327fc753a/application?utm_source=Simplify&amp;ref=Simplify | Abridge | Full Stack Engineer - New Grad - Product Engineering - Typescript - React - Next.js | SF": {
+    "ts": "2025-09-27T03:06:56.406Z",
+    "status": "opened"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684?utm_source=Simplify&amp;ref=Simplify | 🔥 Adobe | 2026 University Graduate - Software Engineer | 7 locations Seattle, WA SF Austin, TX San Jose, CA Waltham, MA NYC Lehi, UT": {
+    "ts": "2025-09-27T17:12:55.788Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3/application?utm_source=Simplify&amp;ref=Simplify | Zip | Software Engineer – New Grad - 2026 Start | San Francisco, CA": {
+    "ts": "2025-09-27T17:14:09.729Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/zip/ab7f23fa-a07e-4061-9400-622d56de67e4/application?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer – New Grad - 2026 Start | Toronto, ON, Canada": {
+    "ts": "2025-09-27T17:14:18.465Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/life/99fdfce1-f0d6-48f8-8ad8-b22b4d6561bf?utm_source=Simplify&amp;ref=Simplify | YouVersion | Associate Software Engineer | Edmond, OK": {
+    "ts": "2025-09-27T17:20:06.428Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b/application?utm_source=Simplify&amp;ref=Simplify | Harvey | Software Engineer – New Grad | San Francisco, CA": {
+    "ts": "2025-09-27T17:20:51.422Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/togetherai/jobs/4835292007?utm_source=Simplify&amp;ref=Simplify | Together AI | Software Engineer – New Grad | San Francisco, CA": {
+    "ts": "2025-09-27T17:22:40.915Z",
+    "status": "manual-submitted"
+  },
+  "https://www.ixl.com/company/jobs?gh_jid=8128544002&amp;utm_source=Simplify&amp;ref=Simplify | IXL Learning | Software Engineer – New Grad | Raleigh, NC": {
+    "ts": "2025-09-27T17:22:47.143Z",
+    "status": "manual-submitted"
+  },
+  "https://www.ixl.com/company/jobs?gh_jid=8128533002&amp;utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer – New Grad | San Mateo, CA": {
+    "ts": "2025-09-27T17:22:50.142Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215/apply?utm_source=Simplify&amp;ref=Simplify | Nominal | Software Engineer – New Grad | New York, NY": {
+    "ts": "2025-09-27T17:25:08.639Z",
+    "status": "manual-submitted"
+  },
+  "https://lifeattiktok.com/search/7538319953965287698?utm_source=Simplify&amp;ref=Simplify | 🔥 TikTok | Software Engineer Graduate (Video-on-Demand Algorithm) | San Jose, CA": {
+    "ts": "2025-09-27T17:25:20.995Z",
+    "status": "manual-submitted"
+  },
+  "https://lifeattiktok.com/search/7535871317771634952?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer Graduate (Data Arch - E-commerce) | San Jose, CA": {
+    "ts": "2025-09-27T17:25:29.510Z",
+    "status": "manual-submitted"
+  },
+  "https://joinbytedance.com/search/7265752342699837757?utm_source=Simplify&amp;ref=Simplify | 🔥 ByteDance | Software Engineer in ML Systems Graduate | San Jose, CA": {
+    "ts": "2025-09-27T17:26:06.540Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d/apply?utm_source=Simplify&amp;ref=Simplify | 🔥 Palantir | Software Engineer – New Grad - Infrastructure | Palo Alto, CA": {
+    "ts": "2025-09-27T17:26:42.323Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer – New Grad - Production Infrastructure | Washington, DC": {
+    "ts": "2025-09-27T17:28:19.119Z",
+    "status": "manual-submitted"
+  },
+  "https://joinbytedance.com/search/7538120693880834322?utm_source=Simplify&amp;ref=Simplify | 🔥 ByteDance | Software Engineer Graduate (Edge Platform) | San Jose, CA": {
+    "ts": "2025-09-27T17:28:22.006Z",
+    "status": "opened"
+  },
+  "https://lifeattiktok.com/search/7538213896365689096?utm_source=Simplify&amp;ref=Simplify | 🔥 TikTok | Software Engineer Graduate (Commerce Ads) | San Jose, CA": {
+    "ts": "2025-09-28T17:00:48.637Z",
+    "status": "manual-submitted"
+  },
+  "https://lifeattiktok.com/search/7538318336657606930?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer Graduate (Media Platform) | San Jose, CA": {
+    "ts": "2025-09-28T17:00:59.713Z",
+    "status": "manual-submitted"
+  },
+  "https://lifeattiktok.com/search/7538325343598741767?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer Graduate (Foundation Platform) | San Jose, CA": {
+    "ts": "2025-09-28T17:01:04.030Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/robinpowered/5b7a72e0-480a-49b6-a4cf-78ee0c6b6ce9?utm_source=Simplify&amp;ref=Simplify | Robin | Associate Software Engineer (AI-Native) | Boston, MA": {
+    "ts": "2025-09-28T17:01:13.489Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80/application?utm_source=Simplify&amp;ref=Simplify | 🔥 Notion | Software Engineer – Early Career - Infrastructure | San Francisco, CA New York, NY": {
+    "ts": "2025-09-28T17:01:31.562Z",
+    "status": "manual-submitted"
+  },
+  "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe-2/?utm_source=Simplify&amp;ref=Simplify | Citadel | Software Engineer – University Graduate | London, UK": {
+    "ts": "2025-09-28T17:02:18.844Z",
+    "status": "manual-submitted"
+  },
+  "https://apply.workable.com/qodeworld/j/5718A36818/?utm_source=Simplify&amp;ref=Simplify | qode.world | Junior Software Developer | New Jersey, NJ": {
+    "ts": "2025-09-28T17:03:11.825Z",
+    "status": "manual-submitted"
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4824369007?utm_source=Simplify&amp;ref=Simplify | Anduril | Early Career Software Engineer | Washington, DC": {
+    "ts": "2025-09-28T17:14:03.711Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/artefact/jobs/8119158002?utm_source=Simplify&amp;ref=Simplify | Artefact | Junior Software Engineer | London, UK": {
+    "ts": "2025-09-28T17:14:04.544Z",
+    "status": "opened"
+  },
+  "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752/application?utm_source=Simplify&amp;ref=Simplify | Suno | Software Engineer – Early Career | Boston, MA New York, NY": {
+    "ts": "2025-10-02T18:24:42.042Z",
+    "status": "manual-submitted"
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4824362007?utm_source=Simplify&amp;ref=Simplify | Anduril | Early Career Software Engineer | Boston, MA": {
+    "ts": "2025-10-02T18:26:31.407Z",
+    "status": "manual-submitted"
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?utm_source=Simplify&amp;ref=Simplify | ↳ | Early Career Software Engineer | Newport Beach, CA": {
+    "ts": "2025-10-02T18:26:47.265Z",
+    "status": "manual-submitted"
+  },
+  "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/?utm_source=Simplify&amp;ref=Simplify | Citadel | Software Engineer – University Graduate | London, UK": {
+    "ts": "2025-10-02T18:47:56.571Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/andurilindustries/jobs/4824378007?gh_jid=4824378007&amp;utm_source=Simplify&amp;ref=Simplify | Anduril Industries | Early Career Software Engineer 🇺🇸 | Atlanta, GA": {
+    "ts": "2025-10-02T18:47:59.488Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/andurilindustries/jobs/4824369007?gh_jid=4824369007&amp;utm_source=Simplify&amp;ref=Simplify | ↳ | Early Career Software Engineer 🇺🇸 | Washington, DC": {
+    "ts": "2025-10-02T18:51:19.517Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/andurilindustries/jobs/4824362007?gh_jid=4824362007&amp;utm_source=Simplify&amp;ref=Simplify | ↳ | Early Career Software Engineer 🇺🇸 | Boston, MA": {
+    "ts": "2025-10-02T18:51:20.385Z",
+    "status": "opened"
+  },
+  "https://lifeattiktok.com/search/7536356589390301458?utm_source=Simplify&amp;ref=Simplify | 🔥 TikTok | Software Engineer Graduate (Recommendation Platform) - 2026 Start (BS/MS) | San Jose, CA": {
+    "ts": "2025-10-04T23:14:54.245Z",
+    "status": "opened"
+  },
+  "https://joinbytedance.com/search/7536272435440716040?utm_source=Simplify&amp;ref=Simplify | 🔥 ByteDance | Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS) | San Jose, CA": {
+    "ts": "2025-10-04T23:15:45.220Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/112718194?utm_source=Simplify&amp;ref=Simplify | AG Technologies | Hiring Entry Level Software Engineer 🎓 | Chesterfield, MO": {
+    "ts": "2025-10-04T23:15:55.955Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/113484514?utm_source=Simplify&amp;ref=Simplify | ↳ | Hiring Entry Level Software Engineer | San Francisco, CA": {
+    "ts": "2025-10-04T23:15:59.141Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999651709482?utm_source=Simplify&amp;ref=Simplify | ↳ | Hiring Entry Level Software Engineer 🎓 | San Diego, CA": {
+    "ts": "2025-10-04T23:16:35.382Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999653435829?utm_source=Simplify&amp;ref=Simplify | ↳ | Hiring Entry Level Software Engineer 🎓 | Dayton, OH": {
+    "ts": "2025-10-04T23:16:39.595Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999655204204?utm_source=Simplify&amp;ref=Simplify | ↳ | Hiring Entry Level Software Engineer | New York, NY": {
+    "ts": "2025-10-04T23:16:42.795Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999653436079?utm_source=Simplify&amp;ref=Simplify | ↳ | Hiring Entry Level Software Engineer 🎓 | Dallas, TX": {
+    "ts": "2025-10-04T23:16:45.972Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999655632519?utm_source=Simplify&amp;ref=Simplify | ↳ | Entry Level Software Engineer 🎓 | San Antonio, TX": {
+    "ts": "2025-10-04T23:16:48.143Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999658747143?utm_source=Simplify&amp;ref=Simplify | ↳ | Entry Level Software Engineers 🎓 | Galveston, TX": {
+    "ts": "2025-10-04T23:16:50.394Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999658568718?utm_source=Simplify&amp;ref=Simplify | ↳ | Entry Level software engineer 🎓 | Tampa, FL": {
+    "ts": "2025-10-04T23:16:52.555Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999659664711?utm_source=Simplify&amp;ref=Simplify | ↳ | Hiring Entry Level Software Engineer 🎓 | Casa Grande, AZ": {
+    "ts": "2025-10-04T23:16:55.798Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/foliahealth/jobs/4013590009?utm_source=Simplify&amp;ref=Simplify | Folia Health | Junior Software Engineer 🛂 | Boston, MA": {
+    "ts": "2025-10-04T23:21:29.026Z",
+    "status": "manual-submitted"
+  },
+  "https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job?utm_source=Simplify&amp;ref=Simplify | Sev1Tech | Software Developer - Entry Level 🇺🇸 | Fort Sill, OK": {
+    "ts": "2025-10-04T23:22:19.603Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189?utm_source=Simplify&amp;ref=Simplify | BRM | Entry Level Software Engineer | San Francisco, CA": {
+    "ts": "2025-10-04T23:24:13.905Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999655719751?utm_source=Simplify&amp;ref=Simplify | AG Technologies | Hiring Entry Level Software Engineer | San Francisco, CA": {
+    "ts": "2025-10-04T23:24:19.388Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/100730616?utm_source=Simplify&amp;ref=Simplify | AG Technologies | Entry Level Software Engineer 🎓 | Chesterfield, MO": {
+    "ts": "2025-10-04T23:24:21.620Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/112610151?utm_source=Simplify&amp;ref=Simplify | ↳ | Hiring Entry Level Software Engineer 🎓 | Dallas, TX": {
+    "ts": "2025-10-04T23:24:23.822Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005?utm_source=Simplify&amp;ref=Simplify | Applied Intuition | Software Engineer - New Grad | Mountain View, CA": {
+    "ts": "2025-10-04T23:24:43.042Z",
+    "status": "manual-submitted"
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4824364007?utm_source=Simplify&amp;ref=Simplify | Anduril Industries | Early Career Software Engineer 🇺🇸 | Seattle, WA": {
+    "ts": "2025-10-04T23:24:45.363Z",
+    "status": "manual-submitted"
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/4824378007?utm_source=Simplify&amp;ref=Simplify | ↳ | Early Career Software Engineer 🇺🇸 | Atlanta, GA": {
+    "ts": "2025-10-04T23:24:47.244Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999655794970?utm_source=Simplify&amp;ref=Simplify | AG Technologies | Hiring Entry Level Software Engineer 🎓 | San Jose, CA": {
+    "ts": "2025-10-04T23:25:24.096Z",
+    "status": "manual-submitted"
+  },
+  "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1?utm_source=Simplify&amp;ref=Simplify | 🔥 Salesforce | Software Engineering AMTS – New Grad | 4 locations Palo Alto, CA Seattle, WA SF Bellevue, WA": {
+    "ts": "2025-10-04T23:25:29.168Z",
+    "status": "manual-submitted"
+  },
+  "https://remodelhealth.com/resources/job/?gh_jid=4880033008&amp;utm_source=Simplify&amp;ref=Simplify | Remodel Health | Junior Software Engineer | Indianapolis, IN": {
+    "ts": "2025-10-04T23:25:32.311Z",
+    "status": "opened"
+  },
+  "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_316797?utm_source=Simplify&amp;ref=Simplify | CACI | Fullstack Web Application Software Engineer – Entry Level | Rome, NY #score:8": {
+    "ts": "2025-10-04T23:52:39.463Z",
+    "status": "opened"
+  },
+  "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=Simplify&amp;ref=Simplify | N1 | New Grad Software Engineer - Backend Rust | Oakland, CA NYC #score:7": {
+    "ts": "2025-10-04T23:52:50.505Z",
+    "status": "opened"
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/88714689822761670?utm_source=Simplify&amp;ref=Simplify | 🔥 Google | Software Engineer – Early Career - PhD - Infrastructure 🎓 | 12 locations Madison, WI Seattle, WA Austin, TX LA Raleigh, NC San Bruno, CA Durham, NC Kirkland, WA NYC Sunnyvale, CA Mountain View, CA Atlanta, GA #score:7": {
+    "ts": "2025-10-04T23:54:19.039Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b/application?utm_source=Simplify&amp;ref=Simplify | Candid Health | Software Engineer New Grad | San Francisco, CA New York, NY Denver, CO #score:7": {
+    "ts": "2025-10-04T23:56:34.919Z",
+    "status": "manual-submitted"
+  },
+  "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Developer_JR2025470637-1?utm_source=Simplify&amp;ref=Simplify | The Boeing Company | Entry Level Software Engineer-Developer | Oklahoma City, OK #score:6": {
+    "ts": "2025-10-04T23:56:38.878Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89/application?utm_source=Simplify&amp;ref=Simplify | 🔥 Ramp | University Grad - Software Engineer - Frontend | NYC #score:6": {
+    "ts": "2025-10-05T00:03:03.273Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a?utm_source=Simplify&amp;ref=Simplify | ↳ | New Grad Software Engineer (Full Stack) | New York, NY #score:6": {
+    "ts": "2025-10-05T00:04:04.124Z",
+    "status": "manual-submitted"
+  },
+  "https://apply.workable.com/trexquant/j/11DC4EA360/apply?utm_source=Simplify&amp;ref=Simplify | Trexquant | Software Engineer – Early Career | Stamford, CT #score:5": {
+    "ts": "2025-10-05T00:04:27.322Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer - New Grad 🛂 | San Francisco New York #score:5": {
+    "ts": "2025-10-05T00:04:33.143Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80/application?utm_source=Simplify&amp;ref=Simplify | 🔥 Notion | Software Engineer – Early Career - Infrastructure | San Francisco, CA New York, NY #score:5": {
+    "ts": "2025-10-05T00:04:38.975Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd?utm_source=Simplify&amp;ref=Simplify | ↳ | New Grad Software Engineer (Backend Rust) | New York, NY #score:5": {
+    "ts": "2025-10-05T00:04:43.751Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/numeric/f9c9e075-7799-414f-8601-f770c0cd9061/application?utm_source=Simplify&amp;ref=Simplify | Numeric | Software Engineer – Early Career | San Francisco, CA New York, NY #score:5": {
+    "ts": "2025-10-05T00:04:56.586Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=Simplify&amp;ref=Simplify | Gecko Robotics | Software Engineer – New Graduate Rotational Development Program | Boston, MA NYC #score:4": {
+    "ts": "2025-10-05T00:05:13.279Z",
+    "status": "manual-submitted"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684?utm_source=Simplify&amp;ref=Simplify | 🔥 Adobe | 2026 University Graduate - Software Engineer | 7 locations Seattle, WA SF Austin, TX San Jose, CA Waltham, MA NYC Lehi, UT #score:4": {
+    "ts": "2025-10-05T00:05:20.451Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752/application?utm_source=Simplify&amp;ref=Simplify | Suno | Software Engineer – Early Career | Boston, MA New York, NY #score:4": {
+    "ts": "2025-10-05T00:06:09.347Z",
+    "status": "manual-submitted"
+  },
+  "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&amp;ref=Simplify | Citadel Securities | Software Engineer – University Graduate | Miami, FL New York, NY #score:4": {
+    "ts": "2025-10-05T00:08:15.001Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4/apply?utm_source=Simplify&amp;ref=Simplify | 🔥 Palantir | Software Engineer – New Grad - Infrastructure | New York, NY #score:4": {
+    "ts": "2025-10-05T00:08:33.333Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003?utm_source=Simplify&amp;ref=Simplify | Sigma Computing | Software Engineer – New Grad Program | SF NYC #score:3": {
+    "ts": "2025-10-05T00:11:49.665Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891/application?utm_source=Simplify&amp;ref=Simplify | Decagon | Agent Software Engineer – New Grad - 2026 Start | NYC #score:3": {
+    "ts": "2025-10-05T00:11:57.807Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application?utm_source=Simplify&amp;ref=Simplify | WhatNot | Software Engineer – 2026 New Grad | SF LA NYC #score:3": {
+    "ts": "2025-10-05T00:12:05.797Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/valon/jobs/4409152006?utm_source=Simplify&amp;ref=Simplify | Valon | Software Engineer – New Grad | SF NYC #score:3": {
+    "ts": "2025-10-05T00:12:09.630Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215/apply?utm_source=Simplify&amp;ref=Simplify | Nominal | Software Engineer – New Grad | New York, NY #score:3": {
+    "ts": "2025-10-05T00:20:27.339Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999655204204?utm_source=Simplify&amp;ref=Simplify | ↳ | Hiring Entry Level Software Engineer | New York, NY #score:3": {
+    "ts": "2025-10-05T00:20:32.774Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999655720227?utm_source=Simplify&amp;ref=Simplify | ↳ | Hiring Entry Level Software Engineer | New York, NY #score:3": {
+    "ts": "2025-10-05T00:22:01.997Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a/apply?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer – New Grad - Production Infrastructure | New York, NY #score:3": {
+    "ts": "2025-10-05T00:22:05.665Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer – New Grad - Defense | New York, NY #score:3": {
+    "ts": "2025-10-05T00:22:13.023Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer – New Grad | New York, NY #score:3": {
+    "ts": "2025-10-05T00:22:20.415Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/numeric/75fb980e-623a-4b92-932b-4ff3ae6fc2e8/application?utm_source=Simplify&amp;ref=Simplify | Numeric | Software Engineer – Early Career | New York, NY #score:3": {
+    "ts": "2025-10-05T00:22:24.204Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003?utm_source=Simplify&amp;ref=Simplify | Sigma Computing | Software Engineer – New Grad Program | SF NYC #score:13": {
+    "ts": "2025-10-07T01:48:54.891Z",
+    "status": "manual-submitted"
+  },
+  "https://apply.workable.com/trexquant/j/11DC4EA360/apply?utm_source=Simplify&amp;ref=Simplify | Trexquant | Software Engineer – Early Career | Stamford, CT #score:13": {
+    "ts": "2025-10-07T01:48:57.864Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891/application?utm_source=Simplify&amp;ref=Simplify | Decagon | Agent Software Engineer – New Grad - 2026 Start | NYC #score:13": {
+    "ts": "2025-10-07T01:49:00.899Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer - New Grad 🛂 | San Francisco New York #score:13": {
+    "ts": "2025-10-07T01:49:03.891Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application?utm_source=Simplify&amp;ref=Simplify | WhatNot | Software Engineer – 2026 New Grad | SF LA NYC #score:13": {
+    "ts": "2025-10-07T01:49:05.770Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=Simplify&amp;ref=Simplify | Gecko Robotics | Software Engineer – New Graduate Rotational Development Program | Boston, MA NYC #score:13": {
+    "ts": "2025-10-07T01:49:07.458Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=Simplify&amp;ref=Simplify | N1 | New Grad Software Engineer - Backend Rust | Oakland, CA NYC #score:13": {
+    "ts": "2025-10-07T01:49:10.209Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/valon/jobs/4409152006?utm_source=Simplify&amp;ref=Simplify | Valon | Software Engineer – New Grad | SF NYC #score:13": {
+    "ts": "2025-10-07T01:49:11.998Z",
+    "status": "manual-submitted"
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/88714689822761670?utm_source=Simplify&amp;ref=Simplify | 🔥 Google | Software Engineer – Early Career - PhD - Infrastructure 🎓 | 12 locations Madison, WI Seattle, WA Austin, TX LA Raleigh, NC San Bruno, CA Durham, NC Kirkland, WA NYC Sunnyvale, CA Mountain View, CA Atlanta, GA #score:13": {
+    "ts": "2025-10-07T01:49:23.070Z",
+    "status": "manual-submitted"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684?utm_source=Simplify&amp;ref=Simplify | 🔥 Adobe | 2026 University Graduate - Software Engineer | 7 locations Seattle, WA SF Austin, TX San Jose, CA Waltham, MA NYC Lehi, UT #score:13": {
+    "ts": "2025-10-07T01:49:28.204Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215/apply?utm_source=Simplify&amp;ref=Simplify | Nominal | Software Engineer – New Grad | New York, NY #score:13": {
+    "ts": "2025-10-07T01:49:54.038Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80/application?utm_source=Simplify&amp;ref=Simplify | 🔥 Notion | Software Engineer – Early Career - Infrastructure | San Francisco, CA New York, NY #score:13": {
+    "ts": "2025-10-07T01:50:41.993Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752/application?utm_source=Simplify&amp;ref=Simplify | Suno | Software Engineer – Early Career | Boston, MA New York, NY #score:13": {
+    "ts": "2025-10-07T01:50:54.954Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999655204204?utm_source=Simplify&amp;ref=Simplify | ↳ | Hiring Entry Level Software Engineer | New York, NY #score:13": {
+    "ts": "2025-10-07T01:50:58.542Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.smartrecruiters.com/AGTechnologies1/743999655720227?utm_source=Simplify&amp;ref=Simplify | ↳ | Hiring Entry Level Software Engineer | New York, NY #score:13": {
+    "ts": "2025-10-07T01:51:01.775Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89/application?utm_source=Simplify&amp;ref=Simplify | 🔥 Ramp | University Grad - Software Engineer - Frontend | NYC #score:13": {
+    "ts": "2025-10-07T01:51:12.590Z",
+    "status": "manual-submitted"
+  },
+  "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/?utm_source=Simplify&amp;ref=Simplify | Citadel Securities | Software Engineer – University Graduate | Miami, FL New York, NY #score:13": {
+    "ts": "2025-10-07T01:51:17.641Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b/application?utm_source=Simplify&amp;ref=Simplify | Candid Health | Software Engineer New Grad | San Francisco, CA New York, NY Denver, CO #score:13": {
+    "ts": "2025-10-07T01:51:18.432Z",
+    "status": "opened"
+  },
+  "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4/apply?utm_source=Simplify&amp;ref=Simplify | 🔥 Palantir | Software Engineer – New Grad - Infrastructure | New York, NY #score:13": {
+    "ts": "2025-10-07T19:31:55.797Z",
+    "status": "opened"
+  },
+  "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a/apply?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer – New Grad - Production Infrastructure | New York, NY #score:13": {
+    "ts": "2025-10-07T19:31:58.762Z",
+    "status": "opened"
+  },
+  "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer – New Grad - Defense | New York, NY #score:13": {
+    "ts": "2025-10-07T19:33:20.882Z",
+    "status": "opened"
+  },
+  "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply?utm_source=Simplify&amp;ref=Simplify | ↳ | Software Engineer – New Grad | New York, NY #score:13": {
+    "ts": "2025-10-07T19:34:00.855Z",
+    "status": "opened"
+  },
+  "https://jobs.ashbyhq.com/numeric/75fb980e-623a-4b92-932b-4ff3ae6fc2e8/application?utm_source=Simplify&amp;ref=Simplify | Numeric | Software Engineer – Early Career | New York, NY #score:13": {
+    "ts": "2025-10-07T19:56:46.078Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd?utm_source=Simplify&amp;ref=Simplify | ↳ | New Grad Software Engineer (Backend Rust) | New York, NY #score:13": {
+    "ts": "2025-10-07T19:56:51.949Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a?utm_source=Simplify&amp;ref=Simplify | ↳ | New Grad Software Engineer (Full Stack) | New York, NY #score:13": {
+    "ts": "2025-10-07T19:56:54.757Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/numeric/f9c9e075-7799-414f-8601-f770c0cd9061/application?utm_source=Simplify&amp;ref=Simplify | Numeric | Software Engineer – Early Career | San Francisco, CA New York, NY #score:13": {
+    "ts": "2025-10-07T19:57:01.611Z",
+    "status": "manual-submitted"
+  },
+  "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Somerville-MA/Software-Engineer---Kotlin---Java_R55107?utm_source=Simplify&amp;ref=Simplify | Motorola | Entry Level Software Engineer - Kotlin - Java | Cambridge, MA #score:10": {
+    "ts": "2025-10-07T19:57:07.703Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply?utm_source=Simplify&amp;ref=Simplify | WeRide | New Grads 2026 - General Software Engineer | San Jose, CA #score:10": {
+    "ts": "2025-10-07T19:57:12.104Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/alumniventures/jobs/4027838009?utm_source=Simplify&amp;ref=Simplify | Alumni Ventures | Software Engineer – Early Career | Andover, MA #score:10": {
+    "ts": "2025-10-07T19:57:18.068Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8/application?utm_source=Simplify&amp;ref=Simplify | Watershed | Software engineer – New grad | SF #score:10": {
+    "ts": "2025-10-07T19:57:25.997Z",
+    "status": "manual-submitted"
+  },
+  "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Developer_JR2025470637-1?utm_source=Simplify&amp;ref=Simplify | The Boeing Company | Entry Level Software Engineer-Developer | Oklahoma City, OK #score:10": {
+    "ts": "2025-10-07T19:57:29.875Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602566006?utm_source=Simplify&amp;ref=Simplify | mthree | Entry Level - C Software Developer | Tampa, FL #score:10": {
+    "ts": "2025-10-07T19:57:55.689Z",
+    "status": "manual-submitted"
+  },
+  "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602555006?utm_source=Simplify&amp;ref=Simplify | ↳ | Entry Level - C Software Developer | Tampa, FL #score:10": {
+    "ts": "2025-10-07T19:58:05.509Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8?utm_source=Simplify&amp;ref=Simplify | Watershed | Software engineer, new grad | San Francisco #score:10": {
+    "ts": "2025-10-07T20:00:20.483Z",
+    "status": "manual-submitted"
+  },
+  "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Entry-Level-Software-Engineer_R57795?utm_source=Simplify&amp;ref=Simplify | Motorola | Entry Level Software Engineer | Edinburgh, UK #score:10": {
+    "ts": "2025-10-07T20:00:27.615Z",
+    "status": "manual-submitted"
+  },
+  "https://boards.greenhouse.io/embed/job_app?token=7326972003&amp;utm_source=Simplify&amp;ref=Simplify | Konrad Group | Software Developer Entry Level | Toronto, ON, Canada #score:10": {
+    "ts": "2025-10-07T20:00:38.517Z",
+    "status": "manual-submitted"
+  },
+  "https://jobs.cisco.com/jobs/ProjectDetail/Ensoft-Early-in-Career-Graduate-Software-Engineering-UK/1450555?utm_source=Simplify&amp;ref=Simplify | Cisco | Ensoft – Early in Career /Graduate Software Engineering | Welwyn Garden City, UK #score:10": {
+    "ts": "2025-10-07T20:00:41.884Z",
+    "status": "opened"
   }
 }
